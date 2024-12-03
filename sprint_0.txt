@@ -56,5 +56,21 @@ Spended time and Fibo efforts:
 2:
 3:
 
+_____________________________________________________________________________________________________________
+03.12.24
+Taks3:
+1. Leetcode - solve two simple task and push to git repo
+2. Create fibo script using own dictionary cashing implementation
+3. Put Fibo script under decorator which return just Odd the fibo value
 
+Python:
+https://www.linkedin.com/learning/sets-in-python-beyond-basics-to-advanced-techniques?u=89254810
+https://www.linkedin.com/learning/unit-testing-in-python/python-unit-testing-with-pytest?contextUrn=urn%3Ali%3AlyndaLearningPath%3A623b6345498ed46b03b56d47&u=89254810
+
+SQL:
+https://www.linkedin.com/learning/sql-practice-intermediate-queries?u=89254810
+
+AWS:
+https://www.linkedin.com/learning/aws-certified-cloud-practitioner-clf-c01-cert-prep-1-cloud-concepts/how-did-we-get-in-the-cloud?contextUrn=urn%3Ali%3AlyndaLearningPath%3A1~AAAAAAVR65o%3D2668188&u=89254810
+_____________________________________________________________________________________________________________
 
