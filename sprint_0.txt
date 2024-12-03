@@ -75,9 +75,9 @@ https://www.linkedin.com/learning/sql-practice-intermediate-queries?u=89254810
 AWS:
 https://www.linkedin.com/learning/aws-certified-cloud-practitioner-clf-c01-cert-prep-1-cloud-concepts/how-did-we-get-in-the-cloud?contextUrn=urn%3Ali%3AlyndaLearningPath%3A1~AAAAAAVR65o%3D2668188&u=89254810
 
-1:
-2:
-3:
+1: 1
+2: 3
+3: 3
 
 _____________________________________________________________________________________________________________
 
