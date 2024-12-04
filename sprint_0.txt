@@ -98,4 +98,6 @@ https://www.linkedin.com/learning/python-practice-object-oriented-programming/tr
 AWS: (on page 4 video tutorials with explanation - view all them)
 https://aws.amazon.com/ru/pm/lambda/#Learn_more_about_building_with_AWS_Lambda
 
+1. 1
+2. 1
 _____________________________________________________________________________________________________________
