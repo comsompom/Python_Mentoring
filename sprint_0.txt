@@ -73,4 +73,23 @@ https://www.linkedin.com/learning/sql-practice-intermediate-queries?u=89254810
 AWS:
 https://www.linkedin.com/learning/aws-certified-cloud-practitioner-clf-c01-cert-prep-1-cloud-concepts/how-did-we-get-in-the-cloud?contextUrn=urn%3Ali%3AlyndaLearningPath%3A1~AAAAAAVR65o%3D2668188&u=89254810
 _____________________________________________________________________________________________________________
+04.12.24
+Task4:
+1. Leetcode - solve two simple problem and commit the solutions to github
+2. Create class DataReceiver with the next implementation:
+   a) init class variavle should get the URL
+   b) method get_remote_data should receive the data from wikipedia URL
+   c) method clean_data should remove all none unicode symbols from text and return the cleaned text
+   d) method return_json_text should return the json object with params: "URL" - input user url, "message" - the cleaned text
+   e) method save_to_file should save the json object to the json file
+
+Python:
+https://www.linkedin.com/learning/processing-text-with-python-essential-training?u=89254810
+https://www.linkedin.com/learning/advanced-python-classes-and-functions/introduction?u=89254810
+https://www.linkedin.com/learning/python-practice-object-oriented-programming/try-your-python-programming-skills?u=89254810
+
+AWS: (on page 4 video tutorials with explanation - view all them)
+https://aws.amazon.com/ru/pm/lambda/#Learn_more_about_building_with_AWS_Lambda
+
+_____________________________________________________________________________________________________________
 
