@@ -101,3 +101,25 @@ https://aws.amazon.com/ru/pm/lambda/#Learn_more_about_building_with_AWS_Lambda
 1. 1
 2. 1
 _____________________________________________________________________________________________________________
+
+05.12.24
+Task5:
+1. Leetcode - solve two simple problem and commit to github repo
+2. Create class DBSingleton - with singleton implementation of connecting to the sqlite db
+3. Create class RouteFactory - with implementation of the factory for generating different URL which
+   depends of the user input
+4. Create class RateFacade - with implementation of returning 3 different JSON objects
+
+Python:
+https://www.linkedin.com/learning/python-design-patterns-14304845?u=89254810
+
+Flask:
+https://www.linkedin.com/learning/building-restful-apis-with-flask?u=89254810
+
+AWS:
+https://aws.amazon.com/en/sqs/
+https://aws.amazon.com/en/sqs/details/
+https://aws.amazon.com/en/sqs/pricing/
+https://aws.amazon.com/en/s3/
+
+_____________________________________________________________________________________________________________
