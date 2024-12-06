@@ -122,10 +122,10 @@ https://aws.amazon.com/en/sqs/details/
 https://aws.amazon.com/en/sqs/pricing/
 https://aws.amazon.com/en/s3/
 Rate:
-1:
-2:
-3:
-4:
+1: 1
+2: 2
+3: 2
+4: 1
 
 _____________________________________________________________________________________________________________
 06.12.24
@@ -148,9 +148,9 @@ https://www.linkedin.com/learning/flask-essential-training-2019/web-development-
 https://www.linkedin.com/learning/flask-essential-training-24681038/build-a-full-stack-app-in-python-with-flask?u=89254810
 https://www.linkedin.com/learning/flask-essential-training-2019/web-development-with-flask?u=89254810
 Rate:
-1:
-2:
-3:
-4:
-5:
+1: 1
+2: 1
+3: 1
+4: 1
+5: 1
 _____________________________________________________________________________________________________________
