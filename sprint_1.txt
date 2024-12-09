@@ -1,0 +1,26 @@
+09.12.24.
+Sprint 1
+Task 7
+0. Create Separate repo on the GitHub Orion_Sprint_1
+1. Leetcode - solve two simple problem and commit to github repo
+2. Create the generator which should calculate the next number by the rule: num_next = (num_previous * 3) // 5.
+   The teach materials about generators:
+   a. https://wiki.python.org/moin/Generators
+   b. https://www.geeksforgeeks.org/generators-in-python/
+   c. https://realpython.com/introduction-to-python-generators/
+3. Create the function that will show just n  elements which will be declared as variable from previous Generator
+4. Create on the AWS Free account - Lambda Function which should calculate the Fubo sequence by receiving the user
+   variable. In the Git repo create the Separate Folder in the Orion Sprint 1 named (AWS Projects) in this folder create the Readme.md 
+   file with described:
+   a. Lambda URL
+   b. Payload to lambda
+   c. Responce from Lambda
+   d. Readme file should be done as document with Content, right described URL and full description
+   e. check that lambda will not triger any paid resources
+
+External teach materials:
+https://www.linkedin.com/learning/learning-regular-expressions-15586553/write-text-matching-patterns?u=89254810
+https://www.linkedin.com/learning/python-practice-collections/try-your-python-programming-skills?u=89254810
+
+https://www.linkedin.com/learning/skill-up-with-python-hands-on-web-development-projects/skill-up-with-python-introduction?u=89254810
+_____________________________________________________________________________________________________________
