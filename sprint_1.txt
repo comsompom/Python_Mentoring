@@ -1,3 +1,5 @@
+
+
 09.12.24.
 Sprint 1
 Task 7
@@ -23,4 +25,8 @@ https://www.linkedin.com/learning/learning-regular-expressions-15586553/write-te
 https://www.linkedin.com/learning/python-practice-collections/try-your-python-programming-skills?u=89254810
 
 https://www.linkedin.com/learning/skill-up-with-python-hands-on-web-development-projects/skill-up-with-python-introduction?u=89254810
+
+Bonus task:
+https://www.linkedin.com/learning/monitoring-aws-with-cloudwatch-19882023/monitoring-cloud-performance-with-aws-cloudwatch?u=89254810
+https://www.linkedin.com/learning/learning-docker-17236240/get-up-and-running-quick-with-docker?u=89254810
 _____________________________________________________________________________________________________________
