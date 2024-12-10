@@ -24,3 +24,32 @@ https://www.linkedin.com/learning/python-practice-collections/try-your-python-pr
 
 https://www.linkedin.com/learning/skill-up-with-python-hands-on-web-development-projects/skill-up-with-python-introduction?u=89254810
 _____________________________________________________________________________________________________________
+10.12.24
+Sprint 1
+Task 8
+0. Solve Two simple tasks on the Leetcode and commit them to repo.
+1. Create FastApi application for getting the stock prices:
+   a. Create separate repo on the GitHub
+   b. create Python separate virtual environment and install all dependencies library there (pandas, numpy, fastapi, yfinance)
+   c. Create Fast api routes for:
+      c.1. Get Stock Prices by send the payload (example): 
+           {"msft": "daily"} - description {stock_name: period} - sgould return the json object: {stock_price: price}
+      c.2. Get Stcock prices values (volume, average) - example: {stock_name: volume}, or example {stock_name: av_7}
+           should return the payload {stock_name: num_var}.
+           for averages return should be described like: av_{num} - where {num} - the number of the days for average the price
+   d. Create video demo of local start and working the FastApi application
+2. Create Docker Container with FastAPI stock application.
+   a. Push the docker file to the FastAPI app repo.
+   b. Docker container should be with minimum size and should include all python libraries and dependencies
+   c. Docker container should start locally
+3. In the FastAPI git repo create the Readme file with full descriprion of the app, the examples of using, examples of send
+   and received payloads. Describe the process of running app locally without docker and inside docker.
+
+
+Teach materials:
+Docker:
+https://www.linkedin.com/learning/docker-essential-training/diving-deeper-into-docker?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5c804fb0498e77634527558a&u=89254810
+
+GitLAb:
+https://www.linkedin.com/learning/learning-gitlab-14539757/gitlab-version-control-and-more?u=89254810
+_____________________________________________________________________________________________________________
