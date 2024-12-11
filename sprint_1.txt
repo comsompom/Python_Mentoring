@@ -53,3 +53,31 @@ https://www.linkedin.com/learning/docker-essential-training/diving-deeper-into-d
 GitLAb:
 https://www.linkedin.com/learning/learning-gitlab-14539757/gitlab-version-control-and-more?u=89254810
 _____________________________________________________________________________________________________________
+
+11.12.24
+Sprint 1
+Task 9
+0. Solve two simple tasks on the Leetcode and commit to git repo
+1. Update the previous FastApi application for getting stocks:
+   a. Create sqlite database
+   b. In the sqlite db create table "requests" with fields: (time(datetime), stock(text), price(float), av_7(float), av_14(float), 
+      av_21(float), daily_price(float), month_price(float))
+   c. Create Singleton design pattern with connection to the sqlite db
+   d. Each request from the user save to the sqlite db
+   e. add new route "check_db_full" with the json response of the sqlite db table "requests"
+   f. add new route "check_db_time/{time}" with json response of the sqlite table "requests" by user time (user time should be in the 
+      Unix timestamp format)
+2. Add own Exception catcher in which add the possibility to send to the user error responces in the json format by the standard HTTP 
+   responces. For 4XX errors return the json with description of the 4xx error in which should be shortly described the error and the
+   ways to solve it - example {"status": 404, "description": "requested route does not exist", "solve": "check the documentation for 
+   routes {link to the documentation}"}. The same errors should be done for the the problems with db connection and problems with
+   getting stocks from external APIs
+3. Put the app to the Docker container with minimal size
+4. Create video presentation. of the working app localy and in the docker container
+5. Extend documentation with examples of using, how to install app, start app, use docker
+
+
+Teach materials:
+complete the course of the AWS Cloud Practitioner for getting the high level of the AWS resources:
+https://www.linkedin.com/learning/paths/prepare-for-the-aws-certified-cloud-practitioner-clf-c02-certification?u=89254810
+_____________________________________________________________________________________________________________
