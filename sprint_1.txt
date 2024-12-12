@@ -87,3 +87,25 @@ Teach materials:
 complete the course of the AWS Cloud Practitioner for getting the high level of the AWS resources:
 https://www.linkedin.com/learning/paths/prepare-for-the-aws-certified-cloud-practitioner-clf-c02-certification?u=89254810
 _____________________________________________________________________________________________________________
+
+12.12.24
+Sprint 1
+Task 10
+0. Solve two simple problems on the Leetcode and commit to git
+1. Make investigation between MongoDB, SQlite DB and AWS Dynamo DB (do not code or create any thing) - just understand which
+   DB will fit to the previous FastAPI more. Investigation describe in the same FastAPI Folder in the file "DB_investigation.md".
+   Create the Confluence pages;
+   a. with description of the project
+   b. DB investigation
+   c. extend the project Readme with the links to the confluence
+2. Cover all previous FastAPI project with tests. Tests should cover not just lines of the code but the logic also. All requests as the 
+   DB operation should be Mocked with fake results for test but cover the logic. Tests should not be copied to the Docker container 
+   in the process of the Docker container creating.
+3. Check the SonarCloud and create the free account. Add the project to the sonarcloud and check the project with sonar for 
+   finding potential bugs. Extend the readme with sonar links
+4. Create video presentation of the done job (Show tests coverage, sonar, confluence pages, docker build, start, start localy)
+
+Teach materials:
+https://www.linkedin.com/learning/level-up-advanced-sql/advanced-sql-code-challenges?u=89254810
+https://www.linkedin.com/learning/level-up-sql/sql-code-challenges?u=89254810
+_____________________________________________________________________________________________________________
