@@ -109,3 +109,17 @@ Teach materials:
 https://www.linkedin.com/learning/level-up-advanced-sql/advanced-sql-code-challenges?u=89254810
 https://www.linkedin.com/learning/level-up-sql/sql-code-challenges?u=89254810
 _____________________________________________________________________________________________________________
+
+13.12.24
+Sprint 1
+Task 11
+0. Solve two simple problems on the Leetcode and push to repo
+1. Create the checklist of all Sprint task and completre them
+2. Done video presentation of the finished sprint
+3. Describe the patterns Singleton, Fabric and Facade in video presentation
+
+Teach materials:
+
+https://www.linkedin.com/learning/monitoring-aws-with-cloudwatch-19882023/monitoring-cloud-performance-with-aws-cloudwatch?u=89254810
+https://www.linkedin.com/learning/unit-testing-in-python/python-unit-testing-with-pytest?u=89254810
+_____________________________________________________________________________________________________________
