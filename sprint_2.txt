@@ -1,0 +1,13 @@
+16.12.24
+Sprint 2
+Task 12
+0. Solve two simple problems on the Leetcode and commit to git
+1. Finish the previous tasks that has not finished
+2. Using the Facade pattern extend the previous FasAPI application for responce to the user requests about price and volume
+3. Cover all FastApi app with Tests and mock the requests and database operations.
+4. Check the teach materials about data structures
+
+Teach materials:
+https://www.linkedin.com/learning/programming-foundations-data-structures-22859292?u=89254810
+https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506?u=89254810
+_____________________________________________________________________________________________________________
