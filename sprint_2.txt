@@ -11,3 +11,16 @@ Teach materials:
 https://www.linkedin.com/learning/programming-foundations-data-structures-22859292?u=89254810
 https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506?u=89254810
 _____________________________________________________________________________________________________________
+17.12.24
+Sprint 2
+Task 13
+0. Solve two simple task on the leetcode and commit to git repo
+1. Check the Hashicorp Terraform learnings
+2. Create own IaC script for create the Lambda on the own free AWS account
+3. Destroy the lambda with terraform and redeploy it with requests library and send the responce to user from Stock service API
+
+Teach materials:
+https://www.linkedin.com/learning/learning-terraform-15575129/learn-terraform-for-your-cloud-infrastructure?u=89254810
+https://www.linkedin.com/learning/advanced-terraform-18720794/introduction-to-advanced-terraform?u=89254810
+https://www.linkedin.com/learning/essential-terraform-in-aws/essential-terraform-in-aws-introduction?u=89254810
+_____________________________________________________________________________________________________________
