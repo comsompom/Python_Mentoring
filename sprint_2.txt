@@ -1,0 +1,42 @@
+16.12.24
+Sprint 2
+Task 12
+0. Solve two simple problems on the Leetcode and commit to git
+1. Finish the previous tasks that has not finished
+2. Using the Facade pattern extend the previous FasAPI application for responce to the user requests about price and volume
+3. Cover all FastApi app with Tests and mock the requests and database operations.
+4. Check the teach materials about data structures
+
+Teach materials:
+https://www.linkedin.com/learning/programming-foundations-data-structures-22859292?u=89254810
+https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506?u=89254810
+_____________________________________________________________________________________________________________
+17.12.24
+Sprint 2
+Task 13
+0. Solve two simple task on the leetcode and commit to git repo
+1. Check the Hashicorp Terraform learnings
+2. Create own IaC script for create the Lambda on the own free AWS account
+3. Destroy the lambda with terraform and redeploy it with requests library and send the responce to user from Stock service API
+
+Teach materials:
+https://www.linkedin.com/learning/learning-terraform-15575129/learn-terraform-for-your-cloud-infrastructure?u=89254810
+https://www.linkedin.com/learning/advanced-terraform-18720794/introduction-to-advanced-terraform?u=89254810
+https://www.linkedin.com/learning/essential-terraform-in-aws/essential-terraform-in-aws-introduction?u=89254810
+_____________________________________________________________________________________________________________
+18.12.24
+Sprint 2
+Task 14
+0. Solve two simple problems and commit to git repo
+1. Create the AWS Lambda using the Terrafom Module with extended variables and outputs for create process
+2. Lambda should get the request from the user and send it to the "https://marketstack.com/" to get the daily stock prices and respond
+   to the user
+3. Lambda should have internal Error Exception handler with sending to the user understandable responce without
+   mention of the using external API
+4. Create the Video presentation of using terraform with lambda and show the lambda work
+5. The new lambda and the terraform files should be done on the separate git repo
+
+Teach materials:
+https://www.linkedin.com/learning/learning-amazon-web-services-lambda-22774748/monitoring-cloudwatch-logs?resume=false&u=89254810
+https://www.linkedin.com/learning/building-dynamic-websites-using-aws-lambdas/challenge-update-your-html-with-the-lambda-response?resume=false&u=89254810
+_____________________________________________________________________________________________________________
