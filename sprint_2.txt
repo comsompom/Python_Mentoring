@@ -40,3 +40,18 @@ Teach materials:
 https://www.linkedin.com/learning/learning-amazon-web-services-lambda-22774748/monitoring-cloudwatch-logs?resume=false&u=89254810
 https://www.linkedin.com/learning/building-dynamic-websites-using-aws-lambdas/challenge-update-your-html-with-the-lambda-response?resume=false&u=89254810
 _____________________________________________________________________________________________________________
+
+19.12.24
+Sprint 2
+Task 15
+0. Solve two simple problems on the leetcode and commit to git repo
+1. Investigate the CI/CD possibilities in the GitHub. What is it? How to use? How to create the automatic deployment?
+2. Create The CI/CD Pipeline with auto deployment Lambda to the AWS with the new commit
+3. Fix documentation and edscribe the CI/CD in the Readme.
+4. Check the whole project with Sonarcloud and fix all issues.
+
+
+Teach materials:
+https://www.linkedin.com/learning/learning-jenkins-14423877/getting-started-with-jenkins?u=89254810
+https://www.linkedin.com/learning/robot-framework-test-automation-jenkins-ci-and-git-version-control/overview?u=89254810
+_____________________________________________________________________________________________________________
