@@ -55,3 +55,26 @@ Teach materials:
 https://www.linkedin.com/learning/learning-jenkins-14423877/getting-started-with-jenkins?u=89254810
 https://www.linkedin.com/learning/robot-framework-test-automation-jenkins-ci-and-git-version-control/overview?u=89254810
 _____________________________________________________________________________________________________________
+20.12.24
+Sprint 2
+Task 16
+0. Solve two simple task on the leetcode and commit to git
+1. In the Fibo git repo create the CI/CD Pipeline with deploying the Fibo lambda to the AWS
+2. Complete teach materials with Python and SQL
+3. Install Locally PostgreDB. Create three tables with sql scripts:
+   a. Table "user": Fields ("id", "name" (text 255), "email" (text 255))
+   b. Table "history": Fields ("id", "user_id", "url", "date" (datetime), "time_spend"(datetime)) table history has the 
+      column "user_id" which is related to the table "user" - field "id"
+   c. Table "balance": Fields ("id", "user_id" (int), "active_balance" (float), "last_operation_id" (int)), field "user_id" related to
+      the table "user", field "last_operation" related to the table "transactions"
+   d. Table "transactions": Fields ("id", "user_id" (int related to user table), "transaction_type" (int related to the 
+      table type_transactions), "balance_change" (float), "date" (datetime), "time" (datetime))
+   e. Table "type_transactions": Fields ("id", "type")
+4. Connect the database to the python script using the Singleton.
+5. Create the python script with fake data filling for the database.
+
+
+Teach materials:
+https://www.linkedin.com/learning/advanced-python-23931756/welcome?u=89254810
+https://www.linkedin.com/learning/sql-practice-intermediate-queries/try-your-sql-programming-skills?u=89254810
+_____________________________________________________________________________________________________________
