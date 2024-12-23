@@ -1,0 +1,16 @@
+23.12.24
+Short sprint
+Task 17
+0. Solve two simple problems on the leetcode and commit to git repo
+1. Check all repos and make refactoring all scripts, modules with the Python 3.10 typing notation
+   Example: 
+     Before: def some_func(param):
+     After:  def some_func(param: int) -> float:
+
+Teach materials:
+https://www.linkedin.com/learning/python-data-structures-and-algorithms/python-data-structures-and-algorithms-in-action?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2f4b3dd5596be4e4989f&u=89254810
+
+https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/python-data-structures-stacks-queues-and-deques?u=89254810
+
+https://www.linkedin.com/learning/python-data-structures-trees/getting-started-with-trees?u=89254810
+_____________________________________________________________________________________________________________
