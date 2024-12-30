@@ -1,0 +1,19 @@
+30.12.24
+Sprint 4
+Task 19.
+
+0. Solve Two simple tasks on the Leetcode and commit to repo
+1. Create Virtual Environment for the new project: "Django_Competition". Install Python libs: Django lib, postgre lib, Python 3.10
+2. Create the New Django project: Django_Competition, Create separate git repo. Create the PostgreDB: "Django_comp" with tables:
+   a. Cities (id, city), 
+   b. Competitors_Levels (id, level), 
+   c. Competitors (id, name, age, level(connect to Competitors_Levels), city (connect to Cities), competition (connect to Competition)),
+   d. Competition (id, date, name),
+   e. Brackets (id, competitor (connect to Competitors), competition (connect to Competition), lap)
+3. Add routes to Django: competition, competition, registration, competitor_registration, brackets, results
+4. Project should work local and in the Docker Container (demonstrate)
+
+
+Extra Teach SQL:
+https://www.linkedin.com/learning/sql-practice-intermediate-queries/try-your-sql-programming-skills?u=89254810
+_____________________________________________________________________________________________________________
