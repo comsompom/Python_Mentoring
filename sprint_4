@@ -17,3 +17,19 @@ Task 19.
 Extra Teach SQL:
 https://www.linkedin.com/learning/sql-practice-intermediate-queries/try-your-sql-programming-skills?u=89254810
 _____________________________________________________________________________________________________________
+31.12.24
+Sprint 4
+Task 20.
+
+0. Solve two simple problems on the leetcode and commit to git repo.
+1. Based on the Django_Competition project create separate routes for:
+   a. registration of the competitors for separate competition
+   b. crete separate route for creating the competition. On this page should be possibility to set up the date,
+      categories of the competitors, city, country. This competition route should be accessible just for the 
+      organizers role.
+   c. Set up the roles in the admin django panel
+   c. All information about registration should be save in the database. The databese should be connected with
+      django ORM.
+   d. All views of the project should be done in one style
+2. all code should be covered with unit tests
+_____________________________________________________________________________________________________________
