@@ -33,3 +33,19 @@ Task 20.
    d. All views of the project should be done in one style
 2. all code should be covered with unit tests
 _____________________________________________________________________________________________________________
+02.01.25
+Sprint 4
+Task 21
+
+0. Solve two simple problems on the Leetcode and commit them to git repo.
+1. Refactor Django project:
+   a. add the tables:
+      a.1. weights (id, weight), belts (id, belt), age (id, age)
+   b. extend the competitor and competition tables with the fields from tables (weights, belts, age)
+   c. Fix the registration URL for competitor and competition with the new tables fields.
+   d. on the competition registration add the link to the page registered competitors with the possibility to filter them by:
+      d.1. weight, ages, belt
+2. cover all refactored code with the unit tests
+3. register the project on the Sonar cloud and fix all issues that sonar cloud will find.
+4. run the project locally and on the Docker container
+______________________________________________________________________________________________________________
