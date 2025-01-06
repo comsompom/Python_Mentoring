@@ -1,0 +1,19 @@
+*************************************************************************************************************
+_____________________________________________________________________________________________________________
+06.01.25
+Sprint 5
+Task 23
+
+0. Solve two simple problems on the leetcode and commit changes to the git repo
+1. Check the materials about automation with Selenium
+2. Create repo for Selenium scripts. Create Fully automated script to login and navigate to the repo (https://github.com/Svajunas900)
+   Selenium script should collect the information about all the repos and save the names of the repos and the names of the files to
+   local PostgreDB in to the table git_repo (repo_id, repo_name, files_list). Connection to the DB should be realised with Singleton 
+
+
+Teach materials:
+https://www.linkedin.com/learning/using-python-for-automation-2023/automate-everything-with-python?u=89254810
+https://www.linkedin.com/learning/learning-selenium/welcome?u=89254810
+https://www.linkedin.com/learning/test-automation-with-python-5-web-browser-automation-with-selenium/java-setup?u=89254810
+https://www.linkedin.com/learning/test-automation-foundations/build-a-foundation-of-test-automation?u=89254810
+______________________________________________________________________________________________________________
