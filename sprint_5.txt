@@ -17,3 +17,20 @@ https://www.linkedin.com/learning/learning-selenium/welcome?u=89254810
 https://www.linkedin.com/learning/test-automation-with-python-5-web-browser-automation-with-selenium/java-setup?u=89254810
 https://www.linkedin.com/learning/test-automation-foundations/build-a-foundation-of-test-automation?u=89254810
 ______________________________________________________________________________________________________________
+07.01.25
+Sprint 5
+Task 24
+
+0. solve two simple tasks on the leetcode and commit changes to the git
+1. Based on the previous Django competition project add the payment acceptance
+   a. Using the Façade pattern create the payment system for: 
+      Bank card, Virtual user account, Crypto.
+   b. Add route, url and separate page for each user
+   c. Add table payment_methods (id, method)
+   d. Add table user_payment (id, user_id, payment_method, payment_value, date_time)
+   e. Each user could make the payment for the competition participation after the login
+2. All payments should be checked in the admin login page and administrator could include and exclude the participants to each separate
+   competition
+3. Add the checking function which is checking that the payments could be done only till the end registration day.
+   The End registration day must set in the competition by the admins. Add the column to the competition table: end_registration_date
+______________________________________________________________________________________________________________
