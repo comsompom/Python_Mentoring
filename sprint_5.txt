@@ -34,3 +34,20 @@ Task 24
 3. Add the checking function which is checking that the payments could be done only till the end registration day.
    The End registration day must set in the competition by the admins. Add the column to the competition table: end_registration_date
 ______________________________________________________________________________________________________________
+08.01.25
+Sprint 5
+Task 25
+
+0. Solve two simple tasks on the leetcode and commit to the git
+1. Based on the previous Django competition solution:
+   a. Create separate FastAPI app which:
+      a.1. Should work with own schedule (each 10 minutes) and scribe (using Selenium) the information (just public) about: 
+           active competitions, finished competitions, registered to the active competition competitors.
+      a.2 All information should be saved in the SQLite database.
+      a.3 Provide the collected information (return it) by the two routes: 1 - Active competition (with the list of competitors)s;
+          2 - Finished competitions (with the competitors list);
+      a.4 Returned information should be in the JSON format.
+   b. FastAPI app should work locally and inside docker container
+   c. FastAPI should be covered with tests
+______________________________________________________________________________________________________________
+
