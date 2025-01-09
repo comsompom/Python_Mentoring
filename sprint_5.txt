@@ -50,4 +50,15 @@ Task 25
    b. FastAPI app should work locally and inside docker container
    c. FastAPI should be covered with tests
 ______________________________________________________________________________________________________________
+09.01.25
+Sprint 5
+Task 26
+
+0. Solve two simple task on the leetcode and commit changes to the git repo
+1. Based on the previous Django project add the "captcha" to the login page for all users. Captcha should use the simple math operation
+   solution
+3. Based on the FastAPI graber from Django competition add to the FastAPI OAuth JWT tokens authentication. Each token should be generated in
+   the separate simple Flask App with simple user authentication. Token should be available no more than 12 hours.
+   Flask token generation app should run local and on the docker, also should have own SQLite database with users.
+______________________________________________________________________________________________________________
 
