@@ -60,5 +60,18 @@ Task 26
 3. Based on the FastAPI graber from Django competition add to the FastAPI OAuth JWT tokens authentication. Each token should be generated in
    the separate simple Flask App with simple user authentication. Token should be available no more than 12 hours.
    Flask token generation app should run local and on the docker, also should have own SQLite database with users.
+
+additional teach materials:
+Celery:
+https://www.caktusgroup.com/blog/2021/08/11/using-celery-scheduling-tasks/
+https://medium.com/@thujuli/how-to-schedule-tasks-using-celery-in-flask-application-c004dd3c5e5c
+https://www.axelerant.com/blog/how-to-schedule-periodic-tasks-using-celery-beat
+https://medium.com/@pranavdixit20/custom-task-scheduling-in-python-using-redis-and-celery-3918ee143cac
+https://docs.celeryq.dev/en/latest/userguide/periodic-tasks.html
+
+JWT:
+https://auth0.com/blog/how-to-handle-jwt-in-python/
+https://medium.com/@amr2018/how-to-generate-jwt-token-using-python-36c2305c5a14
+https://pyjwt.readthedocs.io/en/stable/
 ______________________________________________________________________________________________________________
 
