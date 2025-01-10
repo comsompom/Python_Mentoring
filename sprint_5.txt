@@ -74,4 +74,23 @@ https://auth0.com/blog/how-to-handle-jwt-in-python/
 https://medium.com/@amr2018/how-to-generate-jwt-token-using-python-36c2305c5a14
 https://pyjwt.readthedocs.io/en/stable/
 ______________________________________________________________________________________________________________
+10.01.25
+Sprint 5
+Task 27
 
+0. Solve two simple problem on the leetcode and commit them to the github repo
+1. Go through the Async python library documentation
+2. Create the FastAPI app for getting the share rates from: 
+   https://polygon.io/
+   https://www.fastforex.io/
+   https://www.openpayd.com/
+   The goal:
+   a. to get three requests from three different brokers at once by the user share request
+   b. send to the user response in the JSON format with middle value of the price from three different brokers
+3. FastAPI app should work on local pc, and from the docker
+
+
+Teach materials:
+https://www.linkedin.com/learning/asynchronous-python-boost-performance-and-efficiency-for-real-world-apps/supercharging-python-async?u=89254810
+https://www.linkedin.com/learning/python-data-structures-and-algorithms/python-data-structures-and-algorithms-in-action?u=89254810
+______________________________________________________________________________________________________________
