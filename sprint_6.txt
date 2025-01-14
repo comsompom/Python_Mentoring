@@ -12,3 +12,25 @@ Task 28
    a. get two responces from two requests using async library
 3. FastApi should work local and from docker
 _____________________________________________________________________________________________________________
+
+14.0.25
+Sprint 6
+Task 29
+
+0. Solve two simple problems on the leetcode and commit them to the git repo
+1. Create separate repo on the git for own context manager.
+   a. Context manager (working inside the "with" operator and has two methods __enter__ and __exit__) should make simple
+      open text file, in the enter method should:
+      a.1. remove all not Unicode symbols
+      a.2. split all strings and set the maximum length of each string equal 70 symbols
+   b. on exit method it should save and close the file without any errors
+2. Create the FastAPI app which should:
+   a. receive any text from the user using the json format: {"text": "some user question"}
+   b. get the user requested text from wiki and using the own context manager collect the text to the file
+   c. grab each 5 string and response to user the json: {"text_found": "collected sentences by own context manager and selenium"}
+3. FastAPI should work in the docker and local.
+
+Teach materials:
+https://realpython.com/python-with-statement/
+https://book.pythontips.com/en/latest/context_managers.html
+_____________________________________________________________________________________________________________
