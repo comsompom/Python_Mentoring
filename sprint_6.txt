@@ -13,7 +13,7 @@ Task 28
 3. FastApi should work local and from docker
 _____________________________________________________________________________________________________________
 
-14.0.25
+14.01.25
 Sprint 6
 Task 29
 
@@ -33,4 +33,18 @@ Task 29
 Teach materials:
 https://realpython.com/python-with-statement/
 https://book.pythontips.com/en/latest/context_managers.html
+_____________________________________________________________________________________________________________
+15.01.25
+Sprint 6
+Task 30
+
+0. Solve two simple problems on the leetcode and commit them to git
+1. Check the pandas framework
+   https://www.linkedin.com/learning/data-analysis-with-python-and-pandas/course-introduction?u=89254810
+   https://www.linkedin.com/learning/pandas-essential-training-24082178/welcome-to-pandas?u=89254810
+2. Solve 7 problems from leetcode with Pandas framework
+   https://leetcode.com/studyplan/introduction-to-pandas/
+   2.1 Create separate repo on the git for pandas
+   2.2. Commit all pandas tasks to the git
+
 _____________________________________________________________________________________________________________
