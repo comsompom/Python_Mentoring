@@ -12,7 +12,6 @@ Task 28
    a. get two responces from two requests using async library
 3. FastApi should work local and from docker
 _____________________________________________________________________________________________________________
-
 14.01.25
 Sprint 6
 Task 29
@@ -46,5 +45,24 @@ Task 30
    https://leetcode.com/studyplan/introduction-to-pandas/
    2.1 Create separate repo on the git for pandas
    2.2. Commit all pandas tasks to the git
-
 _____________________________________________________________________________________________________________
+16.01.25
+Sprint 6
+Task 31
+
+0. Solve two simple problems on the leetcode and commit to git
+1. Finish the leetcode pandas path and commit to the git
+   https://leetcode.com/studyplan/introduction-to-pandas/ 
+2. Based on the previous Django competition solution create script for:
+   a. using singleton connect to the PostgreDB
+   b. crab all database with structure and convert it to the SQLite db
+   c. Collect all information about competitors and save to the file CSV for each line the competitors record with fields:
+      id, name, birth_date, city, age, sport_level, number_participated_competitions, current_competition_registration, last_login_date
+   d. using the pandas extract the records with name started with letter that is a variable in the function params
+3. Create the Flask app with the routes:
+   3.1. "current_compet_info" which should represent the info from CSV file all columns should be 
+   	adjusted and readable
+   3.2. route "letter_compet/{letter}" which is showing the info from pandas data, where the letter is a param
+4. The new Flask, scripts and SQLite db should be in the separate git repo "cross_web_solution"
+_____________________________________________________________________________________________________________
+
