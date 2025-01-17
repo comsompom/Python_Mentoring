@@ -58,12 +58,13 @@ Spended time and Fibo efforts:
 
 _____________________________________________________________________________________________________________
 
-
+=======
 03.12.24
 Taks3:
 1. Leetcode - solve two simple task and push to git repo
 2. Create fibo script using own dictionary cashing implementation
 3. Put Fibo script under decorator which return just Odd the fibo value
+
 
 Python:
 https://www.linkedin.com/learning/sets-in-python-beyond-basics-to-advanced-techniques?u=89254810
@@ -100,6 +101,7 @@ https://aws.amazon.com/ru/pm/lambda/#Learn_more_about_building_with_AWS_Lambda
 
 1. 1
 2. 1
+
 _____________________________________________________________________________________________________________
 
 05.12.24
@@ -121,6 +123,7 @@ https://aws.amazon.com/en/sqs/
 https://aws.amazon.com/en/sqs/details/
 https://aws.amazon.com/en/sqs/pricing/
 https://aws.amazon.com/en/s3/
+
 Rate:
 1: 1
 2: 2
@@ -128,6 +131,8 @@ Rate:
 4: 1
 
 _____________________________________________________________________________________________________________
+
+
 06.12.24
 Task6:
 1. Leetcode - solve two simple problem and commit to git repo
@@ -147,10 +152,12 @@ Task6:
 https://www.linkedin.com/learning/flask-essential-training-2019/web-development-with-flask?u=89254810
 https://www.linkedin.com/learning/flask-essential-training-24681038/build-a-full-stack-app-in-python-with-flask?u=89254810
 https://www.linkedin.com/learning/flask-essential-training-2019/web-development-with-flask?u=89254810
+
 Rate:
 1: 1
 2: 1
 3: 1
 4: 1
 5: 1
+
 _____________________________________________________________________________________________________________

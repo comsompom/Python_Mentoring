@@ -1,0 +1,65 @@
+30.12.24
+Sprint 4
+Task 19.
+
+0. Solve Two simple tasks on the Leetcode and commit to repo
+1. Create Virtual Environment for the new project: "Django_Competition". Install Python libs: Django lib, postgre lib, Python 3.10
+2. Create the New Django project: Django_Competition, Create separate git repo. Create the PostgreDB: "Django_comp" with tables:
+   a. Cities (id, city), 
+   b. Competitors_Levels (id, level), 
+   c. Competitors (id, name, age, level(connect to Competitors_Levels), city (connect to Cities), competition (connect to Competition)),
+   d. Competition (id, date, name),
+   e. Brackets (id, competitor (connect to Competitors), competition (connect to Competition), lap)
+3. Add routes to Django: competition, competition, registration, competitor_registration, brackets, results
+4. Project should work local and in the Docker Container (demonstrate)
+
+
+Extra Teach SQL:
+https://www.linkedin.com/learning/sql-practice-intermediate-queries/try-your-sql-programming-skills?u=89254810
+_____________________________________________________________________________________________________________
+31.12.24
+Sprint 4
+Task 20.
+
+0. Solve two simple problems on the leetcode and commit to git repo.
+1. Based on the Django_Competition project create separate routes for:
+   a. registration of the competitors for separate competition
+   b. crete separate route for creating the competition. On this page should be possibility to set up the date,
+      categories of the competitors, city, country. This competition route should be accessible just for the 
+      organizers role.
+   c. Set up the roles in the admin django panel
+   c. All information about registration should be save in the database. The databese should be connected with
+      django ORM.
+   d. All views of the project should be done in one style
+2. all code should be covered with unit tests
+_____________________________________________________________________________________________________________
+02.01.25
+Sprint 4
+Task 21
+
+0. Solve two simple problems on the Leetcode and commit them to git repo.
+1. Refactor Django project:
+   a. add the tables:
+      a.1. weights (id, weight), belts (id, belt), age (id, age)
+   b. extend the competitor and competition tables with the fields from tables (weights, belts, age)
+   c. Fix the registration URL for competitor and competition with the new tables fields.
+   d. on the competition registration add the link to the page registered competitors with the possibility to filter them by:
+      d.1. weight, ages, belt
+2. cover all refactored code with the unit tests
+3. register the project on the Sonar cloud and fix all issues that sonar cloud will find.
+4. run the project locally and on the Docker container
+______________________________________________________________________________________________________________
+03.01.25
+Sprint 4
+Task 22
+
+0. Solve two simple task on the leetcode and commit them to the git repo
+1. Create separate private page login for each competitior. Competitiors should see just competitiors on which they are registered. 
+   add the possibility to register to the new events. Log competitors operations to the log table in the database (login time, 
+   looking the events, register to the new events)
+2. Based on the Django project and the AWS lambda project:
+   a. each competitor which login to the competition portal should receive the value from Fibo lambda (AWS) by using the 
+   get request to the AWS. Information about this Fibo number should be logged in the database. Each new login should set the new
+   fibo number from the fibo sequence. All the numbers which stored in the competitors database should be unique
+3. Add separate url and page with the current competitors registered in the database with their fibo numbers
+______________________________________________________________________________________________________________

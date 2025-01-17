@@ -1,0 +1,83 @@
+13.01.25
+Sprint 6
+Task 28
+
+0.0 Teach materials Celery:  https://lip17.medium.com/hands-on-learn-python-celery-in-30-minutes-9544aabb70b1
+
+0. Solve two simple problem from leetcode and commit to the git repo
+1. Check the Celery teach materials and try to use them as scheduled tasks.
+2. From previous FastAPI for using the async library the urls for getting stock prices:
+   https://polygon.io/stocks
+   https://eodhd.com/
+   a. get two responces from two requests using async library
+3. FastApi should work local and from docker
+_____________________________________________________________________________________________________________
+14.01.25
+Sprint 6
+Task 29
+
+0. Solve two simple problems on the leetcode and commit them to the git repo
+1. Create separate repo on the git for own context manager.
+   a. Context manager (working inside the "with" operator and has two methods __enter__ and __exit__) should make simple
+      open text file, in the enter method should:
+      a.1. remove all not Unicode symbols
+      a.2. split all strings and set the maximum length of each string equal 70 symbols
+   b. on exit method it should save and close the file without any errors
+2. Create the FastAPI app which should:
+   a. receive any text from the user using the json format: {"text": "some user question"}
+   b. get the user requested text from wiki and using the own context manager collect the text to the file
+   c. grab each 5 string and response to user the json: {"text_found": "collected sentences by own context manager and selenium"}
+3. FastAPI should work in the docker and local.
+
+Teach materials:
+https://realpython.com/python-with-statement/
+https://book.pythontips.com/en/latest/context_managers.html
+_____________________________________________________________________________________________________________
+15.01.25
+Sprint 6
+Task 30
+
+0. Solve two simple problems on the leetcode and commit them to git
+1. Check the pandas framework
+   https://www.linkedin.com/learning/data-analysis-with-python-and-pandas/course-introduction?u=89254810
+   https://www.linkedin.com/learning/pandas-essential-training-24082178/welcome-to-pandas?u=89254810
+2. Solve 7 problems from leetcode with Pandas framework
+   https://leetcode.com/studyplan/introduction-to-pandas/
+   2.1 Create separate repo on the git for pandas
+   2.2. Commit all pandas tasks to the git
+_____________________________________________________________________________________________________________
+16.01.25
+Sprint 6
+Task 31
+
+0. Solve two simple problems on the leetcode and commit to git
+1. Finish the leetcode pandas path and commit to the git
+   https://leetcode.com/studyplan/introduction-to-pandas/ 
+2. Based on the previous Django competition solution create script for:
+   a. using singleton connect to the PostgreDB
+   b. crab all database with structure and convert it to the SQLite db
+   c. Collect all information about competitors and save to the file CSV for each line the competitors record with fields:
+      id, name, birth_date, city, age, sport_level, number_participated_competitions, current_competition_registration, last_login_date
+   d. using the pandas extract the records with name started with letter that is a variable in the function params
+3. Create the Flask app with the routes:
+   3.1. "current_compet_info" which should represent the info from CSV file all columns should be 
+   	adjusted and readable
+   3.2. route "letter_compet/{letter}" which is showing the info from pandas data, where the letter is a param
+4. The new Flask, scripts and SQLite db should be in the separate git repo "cross_web_solution"
+_____________________________________________________________________________________________________________
+17.01.25
+Sprint 6
+Task 32
+
+0. solve two simple problems on the leetcode and commit them to the git repo
+1. Check the AWS documentation about resources: ECS. ECR, CodeDeploy (canary, bluegreen deployment)
+   https://aws.amazon.com/codedeploy/
+   https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/blue-green.html
+   https://docs.aws.amazon.com/codedeploy/latest/userguide/deployment-groups-create-blue-green.html
+   https://docs.aws.amazon.com/whitepapers/latest/overview-deployment-options/canary-deployments.html
+2. Materials to check:
+   https://www.linkedin.com/learning/programming-foundations-data-structures-22859292?u=89254810
+   https://www.linkedin.com/learning/sql-practice-intermediate-queries/try-your-sql-programming-skills?u=89254810
+3. Based on the previous Django competitiors solution using the adapter design pattern create the export from Django db to the
+   SQLite db. Solution should be done in the git repo: https://github.com/Svajunas900/cross_web_solution in separate folder "exporter"
+_____________________________________________________________________________________________________________
