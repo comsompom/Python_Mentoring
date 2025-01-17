@@ -65,4 +65,19 @@ Task 31
    3.2. route "letter_compet/{letter}" which is showing the info from pandas data, where the letter is a param
 4. The new Flask, scripts and SQLite db should be in the separate git repo "cross_web_solution"
 _____________________________________________________________________________________________________________
+17.01.25
+Sprint 6
+Task 32
 
+0. solve two simple problems on the leetcode and commit them to the git repo
+1. Check the AWS documentation about resources: ECS. ECR, CodeDeploy (canary, bluegreen deployment)
+   https://aws.amazon.com/codedeploy/
+   https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/blue-green.html
+   https://docs.aws.amazon.com/codedeploy/latest/userguide/deployment-groups-create-blue-green.html
+   https://docs.aws.amazon.com/whitepapers/latest/overview-deployment-options/canary-deployments.html
+2. Materials to check:
+   https://www.linkedin.com/learning/programming-foundations-data-structures-22859292?u=89254810
+   https://www.linkedin.com/learning/sql-practice-intermediate-queries/try-your-sql-programming-skills?u=89254810
+3. Based on the previous Django competitiors solution using the adapter design pattern create the export from Django db to the
+   SQLite db. Solution should be done in the git repo: https://github.com/Svajunas900/cross_web_solution in separate folder "exporter"
+_____________________________________________________________________________________________________________
