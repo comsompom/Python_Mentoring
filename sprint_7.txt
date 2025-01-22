@@ -26,3 +26,18 @@ Task 34
         symbols. If sentence less then 70 symbols then leave it as it if more than 70 symbols then split them to two or more lines.
    2.3. Using singleton create the SQLite db connection and save the short description of each txt file in to the db
 _____________________________________________________________________________________________________________
+22.01.25
+Sprint 7
+Task 35
+
+0. Solve two simple problems on the leetcode and commit to the git repo, add description with big O notation
+1. Create simple AWS lambda which will request any url that user send as parameter and return the response.text to the user.
+2. Cover the lambda code with unit tests
+3. Create the Terraform scripts for deploy the lambda
+4. On the git create the CI/CD with two branches: dev and prod. 
+   4.1. The dev branch could be commited any user and CI/CD on the dev branch
+         should start the unit tests and using the terraform deploy the lambda.
+   4.2. the prod branch should be protected and to the prod branch possible just merging from the dev branch only with two user
+        approvals. On the prod branch CI/CD should run the unit tests and deploy the lambda with terraform. Results of the deploying
+        should be returned in the output with the uri of the lambda
+_____________________________________________________________________________________________________________
