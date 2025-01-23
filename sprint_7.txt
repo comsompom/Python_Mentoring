@@ -41,3 +41,26 @@ Task 35
         approvals. On the prod branch CI/CD should run the unit tests and deploy the lambda with terraform. Results of the deploying
         should be returned in the output with the uri of the lambda
 _____________________________________________________________________________________________________________
+23.01.25
+Sprint 7
+Task 36
+
+Teach materials:
+1. https://realpython.com/python-gil/
+2. https://www.geeksforgeeks.org/multiprocessing-python-set-1/
+3. https://www.geeksforgeeks.org/multithreading-python-set-1/
+4. https://www.youtube.com/watch?v=STEOavXqXkQ
+5. https://wiki.python.org/moin/UsingSlots
+6. https://www.geeksforgeeks.org/classmethod-in-python/
+
+Practice:
+0. solve two simple leetcode task with describe big O and commit them
+1. Create the repo "class_examples". in this repo:
+   a. Create simple class with using "slots"
+   b. Create simple class with @classmethod and @staticmethod. Create the readme with describing what classmethod and staticmethod
+      are doing.
+   c. create self understanding doc with describe the GIL, the difference between multiprocessing and multithreading
+2. Create FasAPI app for calculating the average profit of stocktrading using the staticmethod for calculation
+3. see the course:
+   https://www.linkedin.com/learning/build-rest-apis-with-fastapi/what-is-fastapi?u=89254810
+_____________________________________________________________________________________________________________
