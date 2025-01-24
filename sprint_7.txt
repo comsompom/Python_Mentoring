@@ -64,3 +64,28 @@ Practice:
 3. see the course:
    https://www.linkedin.com/learning/build-rest-apis-with-fastapi/what-is-fastapi?u=89254810
 _____________________________________________________________________________________________________________
+24.01.25
+Sprint 7
+Task 37
+
+Teach materials:
+1. isinstance: https://www.w3schools.com/python/ref_func_isinstance.asp
+2. datatypes: https://www.w3schools.com/python/python_datatypes.asp
+   https://www.w3schools.com/python/python_lists.asp
+   https://www.w3schools.com/python/python_tuples.asp
+   https://www.w3schools.com/python/python_sets.asp
+   https://www.w3schools.com/python/python_dictionaries.asp
+3. Regular Expressions:
+   https://www.dataquest.io/cheat-sheet/regular-expressions-cheat-sheet/
+   https://www.linkedin.com/learning/learning-regular-expressions-15586553/write-text-matching-patterns?u=89254810
+
+Practice:
+0. solve two simple problems on the leetcode and commit to the git
+1. Create own examples of using singleton with: 
+   Base class, Metaclass, Decorator:
+   https://stackabuse.com/creating-a-singleton-in-python/
+   https://www.geeksforgeeks.org/singleton-pattern-in-python-a-complete-guide/
+2. Check the Pydantic library:
+   2.1. https://docs.pydantic.dev/latest/
+   2.2  create schema validation example with pydantic library
+_____________________________________________________________________________________________________________
