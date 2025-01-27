@@ -1,0 +1,22 @@
+27.01.25
+Sprint 8
+Task 38
+
+0. Solve two simple problems on the leetcode and commit them to repo
+1. Check the materials about class functions help, dir, issubclass, len
+   https://www.programiz.com/python-programming/methods/built-in/help
+   https://www.programiz.com/python-programming/methods/built-in/issubclass
+   https://www.programiz.com/python-programming/methods/built-in/len
+   https://www.w3schools.com/python/ref_func_dir.asp
+2. Check the course Regular expressions:
+   https://www.linkedin.com/learning/learning-regular-expressions-15586553/write-text-matching-patterns?u=89254810
+3. Create on the Git separate repo "regular_expressions".
+   on this repo create the FastAPI app which:
+   a. get the URL and search string from the user in the json format,
+   b. using selenium grab the text
+   c. save the text to the file, delete all none Unicode symbols
+   d. using the regular expressions search the user search string and send to the user the response with found information. If requested 
+      info is not found then Own Exception should be generated. Own exception should be done in own exception class. Exception should
+      return to the user the error code (depends of the exception) and the explanation
+4. All code should be covered with unit tests, which should be executed automatically on the Git CI/CD on  the each commit.
+_____________________________________________________________________________________________________________
