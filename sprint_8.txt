@@ -20,3 +20,19 @@ Task 38
       return to the user the error code (depends of the exception) and the explanation
 4. All code should be covered with unit tests, which should be executed automatically on the Git CI/CD on  the each commit.
 _____________________________________________________________________________________________________________
+28.01.25
+Sprint 8
+Task 39
+
+0. solve two simple problems on the leetcode and commit them to git repo.
+1. Based on the previous Django competition solution create:
+   1.1 Flask application for creating blog on the Django site:
+       a. Flask app should be accessible with the same admin credentials as Django admin
+       b. Flask app should have easy interface for create text, add images and save them to the template files inside 
+          Django app.
+       c. Django app should recognise that templates and show them on the pages after the flask app will create or renew some
+          text or image app.
+       d. Flask app should have possibility to get the text files (txt or csv) and transfer them to the Django postgreDb
+       e. all code should be covered with tests
+       f. flask app should work local and from docker
+_____________________________________________________________________________________________________________
