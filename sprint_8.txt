@@ -36,3 +36,23 @@ Task 39
        e. all code should be covered with tests
        f. flask app should work local and from docker
 _____________________________________________________________________________________________________________
+29.01.25
+Sprint 8
+Task 40
+
+0. Solve two simple leetcode tasks and commit them to the git repo
+1. Check Generators teach materials
+   https://www.youtube.com/watch?app=desktop&v=2eiFCQ-YAf4&t=12m55s
+   https://www.youtube.com/watch?v=1OSEzdOpmWQ
+2. Create scripts using generators which:
+   2.0. create separate repo "generators_examples"
+   2.1. generates all permutations of a given list of elements
+   2.2. generates all combinations of a given list of elements
+   2.3. write simple script with itertools module and compare the possibility of using the itertools and self created generators with the
+        huge data lists
+   2.4  generate all prime numbers between two given number. Second number could be greater then 10.000.000.000
+   2.5. generate the square, cube roots of numbers from the range
+   2.6. generate the powers of the numbers from the range
+3. Create class GeneratorTools which should contain all generators scripts and should offer the methods with different generators
+4. Create FastAPI app with the class GeneratorTools which should response to the user the json with {{generator_Method_name}: {list_range}}
+_____________________________________________________________________________________________________________
