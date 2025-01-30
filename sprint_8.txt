@@ -56,3 +56,15 @@ Task 40
 3. Create class GeneratorTools which should contain all generators scripts and should offer the methods with different generators
 4. Create FastAPI app with the class GeneratorTools which should response to the user the json with {{generator_Method_name}: {list_range}}
 _____________________________________________________________________________________________________________
+30.01.25
+Sprint 8
+Task 41
+
+0. Solve two simple leetcode problems and commit them to git repo
+2. Teach materials for NoSQL DB (mongoDb, Dynamo DB)
+   https://www.linkedin.com/learning/mongodb-essential-training/an-introduction-to-mongodb-23754278?u=89254810
+   https://www.linkedin.com/learning/advanced-nosql-for-data-science/prepare-data-with-document-databases?u=89254810
+   https://www.linkedin.com/learning/aws-for-developers-dynamodb/why-dynamodb?u=89254810
+   https://www.linkedin.com/learning/vector-graph-and-dynamodb/picking-database?u=89254810
+3. Create short investigation readme doc for describe the main positive and negative sides for NoSQL dbs. Where and how they are using.
+_____________________________________________________________________________________________________________
