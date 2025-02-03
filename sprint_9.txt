@@ -1,0 +1,23 @@
+03.03.25
+Sprint 9
+Task 43
+
+0. Solve two simple problems on the leetcode and commit them to the git repo
+1. Refactor repositories with typing (https://docs.python.org/3/library/typing.html):
+   1.1. https://github.com/Svajunas900/Regular_expressions/tree/main
+        https://github.com/Svajunas900/generators_examples
+        https://github.com/Svajunas900/class_examples/tree/main
+        https://github.com/Svajunas900/FastAPI_Stocks/blob/main
+        https://github.com/Svajunas900/cross_web_solution/tree/main
+
+2. For the previous FastAPI projects add interactive API Docs using Swagger UI (https://fastapi.tiangolo.com/#interactive-api-docs):
+   2.1. https://github.com/Svajunas900/generators_examples
+        https://github.com/Svajunas900/FastAPI_Stocks/blob/main
+        https://github.com/Svajunas900/Regular_expressions/blob/main
+        https://github.com/Svajunas900/cross_web_solution/tree/main
+   2.2. Create presentation of the Swagger UI working process
+
+3. Add security OAuth to the FastAPI (https://fastapi.tiangolo.com/tutorial/security/simple-oauth2/#oauth2passwordrequestform):
+   3.1. https://github.com/Svajunas900/FastAPI_Stocks/blob/main
+        https://github.com/Svajunas900/cross_web_solution/tree/main
+_____________________________________________________________________________________________________________
