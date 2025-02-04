@@ -21,3 +21,26 @@ Task 43
    3.1. https://github.com/Svajunas900/FastAPI_Stocks/blob/main
         https://github.com/Svajunas900/cross_web_solution/tree/main
 _____________________________________________________________________________________________________________
+04.02.25
+Sprint 9
+Task 44
+
+0. Solve two simple leetcode problems and commit them to git repo
+1. Check the cources:
+   https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-databases-to-level-up-your-python-applications?u=89254810
+   https://www.linkedin.com/learning/advanced-python-practical-database-examples/use-databases-to-level-up-your-python-applications?u=89254810
+2. Check the SQLAlchemy documentation: https://www.sqlalchemy.org/
+3. Refactor the repo (add the sqlalchemy_prj  branch) for using with the sqlalchemy framework:
+   https://github.com/Svajunas900/Context_managers
+   3.1. in the database create the tables:
+        a. user login (id, date, time, username)
+        b. user requests (id, username, request(url), response(should be short description, date, time))
+   3.2. add the readme file with description how to use the project, how to start the project, how to use local version, docker version
+4. refactor the repo:
+   https://github.com/Svajunas900/generators_examples
+   4.1. add authorization url with oauth bearer token
+   4.2. requests could be done just authorised users
+   4.3. add sqlalchemy framework and database with tables:
+        a. user_request (id, username, gen_request, gen_response, date, time)
+        b. auth_logs (id, date, time, authorised/not authorised)
+_____________________________________________________________________________________________________________
