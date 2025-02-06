@@ -75,3 +75,14 @@ Task 45
          the local and Docker. On the prod the readme should contain the information about user restrictions and categories.
    1.12. the app should be verified with sonarcloud
 _____________________________________________________________________________________________________________
+06.02.25
+Sprint 9
+Task 46
+
+0. Solve two simple task on the leetcode and commit it to the git
+1. learn the courses about AWS architecture:
+   https://www.linkedin.com/learning/aws-certified-solutions-architect-associate-saa-c03-cert-prep-1-cloud-services-overview/aws-solutions-architect-associate?contextUrn=urn%3Ali%3AlyndaLearningPath%3A6452b7ae498ee2eccf043926&u=89254810
+   https://www.linkedin.com/learning/aws-certified-solutions-architect-associate-saa-c03-cert-prep-2-storage-design/storage-services?contextUrn=urn%3Ali%3AlyndaLearningPath%3A6452b7ae498ee2eccf043926&u=89254810
+   https://www.linkedin.com/learning/aws-certified-solutions-architect-associate-saa-c03-cert-prep-3-virtual-private-cloud/virtual-private-cloud-vpc-overview?contextUrn=urn%3Ali%3AlyndaLearningPath%3A6452b7ae498ee2eccf043926&u=89254810
+
+_____________________________________________________________________________________________________________
