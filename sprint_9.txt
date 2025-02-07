@@ -86,3 +86,16 @@ Task 46
    https://www.linkedin.com/learning/aws-certified-solutions-architect-associate-saa-c03-cert-prep-3-virtual-private-cloud/virtual-private-cloud-vpc-overview?contextUrn=urn%3Ali%3AlyndaLearningPath%3A6452b7ae498ee2eccf043926&u=89254810
 
 _____________________________________________________________________________________________________________
+
+07.02.25
+Sprint 9
+Task 47
+
+0. Solve two simple problems on the leetcode and commit them to the git repo.
+1. Learn the courses of the AWS architecture:
+   https://www.linkedin.com/learning/aws-certified-solutions-architect-associate-saa-c03-cert-prep-4-compute-services/ec2-overview?contextUrn=urn%3Ali%3AlyndaLearningPath%3A6452b7ae498ee2eccf043926&u=89254810
+   https://www.linkedin.com/learning/aws-certified-solutions-architect-associate-saa-c03-cert-prep-5-identity-and-access-management/identity-and-access-management-iam-overview?contextUrn=urn%3Ali%3AlyndaLearningPath%3A6452b7ae498ee2eccf043926&u=89254810
+   https://www.linkedin.com/learning/aws-certified-solutions-architect-associate-saa-c03-cert-prep-6-auto-scaling-and-virtual-network-services/auto-scaling-overview?contextUrn=urn%3Ali%3AlyndaLearningPath%3A6452b7ae498ee2eccf043926&u=89254810
+
+_____________________________________________________________________________________________________________
+
