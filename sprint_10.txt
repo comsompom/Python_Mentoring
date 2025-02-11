@@ -8,3 +8,13 @@ Task 48
    https://www.linkedin.com/learning/aws-certified-solutions-architect-associate-saa-c03-cert-prep-8-databases/database-types?contextUrn=urn%3Ali%3AlyndaLearningPath%3A6452b7ae498ee2eccf043926&u=89254810
    https://www.linkedin.com/learning/aws-certified-solutions-architect-associate-saa-c03-cert-prep-9-services-and-design-scenarios/media-content-delivery?contextUrn=urn%3Ali%3AlyndaLearningPath%3A6452b7ae498ee2eccf043926&u=89254810
 _____________________________________________________________________________________________________________
+11.02.25
+Sprint 10
+Task 49
+
+0. Solve two simple problems on the leetcode and commit them to the git repo
+1. Learn courses:
+   https://www.linkedin.com/learning/unit-testing-and-test-driven-development-in-python/welcome?u=89254810
+   https://www.linkedin.com/learning/visual-studio-deep-dive-unit-tests/test-your-code-in-visual-studio?u=89254810
+   https://www.linkedin.com/learning/software-testing-tools/making-the-right-software-testing-choice?u=89254810
+_____________________________________________________________________________________________________________
