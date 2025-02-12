@@ -18,3 +18,15 @@ Task 49
    https://www.linkedin.com/learning/visual-studio-deep-dive-unit-tests/test-your-code-in-visual-studio?u=89254810
    https://www.linkedin.com/learning/software-testing-tools/making-the-right-software-testing-choice?u=89254810
 _____________________________________________________________________________________________________________
+12.02.25
+Sprint 10
+Task 50
+
+0. Solve two simple leetcode problems and commit them to git repo
+1. Learn Linux Bash 
+   https://www.linkedin.com/learning/learning-bash-scripting-17063287/learning-bash-scripting?u=89254810
+   https://www.linkedin.com/learning/learning-linux-command-line-14447912/learning-linux-command-line?u=89254810
+2. Learn about Python testing
+   https://www.linkedin.com/learning/test-automation-with-python-3-testing-web-and-mobile/the-landscape-of-web-testing-tools?u=89254810
+   https://www.linkedin.com/learning/python-automation-and-testing/welcome?u=89254810
+_____________________________________________________________________________________________________________
