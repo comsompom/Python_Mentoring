@@ -30,3 +30,25 @@ Task 50
    https://www.linkedin.com/learning/test-automation-with-python-3-testing-web-and-mobile/the-landscape-of-web-testing-tools?u=89254810
    https://www.linkedin.com/learning/python-automation-and-testing/welcome?u=89254810
 _____________________________________________________________________________________________________________
+13.10.25
+Sprint 10
+Task 51
+
+0. Solve two simple problems on the leetcode and commit them to the git repo
+1. Learn the corces about TCP and Network:
+   https://www.linkedin.com/learning/comptia-a-plus-core-1-220-1101-cert-prep/introduction-to-tcp-ip-21430109?autoplay=true&resume=false&u=89254810
+   https://www.linkedin.com/learning/comptia-a-plus-core-1-220-1101-cert-prep/dynamic-ip-addressing-21424728?autoplay=true&resume=false&u=89254810
+   https://www.linkedin.com/learning/comptia-a-plus-core-1-220-1101-cert-prep/ipv6-21427231?autoplay=true&resume=false&u=89254810
+   https://www.linkedin.com/learning/comptia-a-plus-core-1-220-1101-cert-prep/port-numbers-21424704?autoplay=true&resume=false&u=89254810
+   https://www.linkedin.com/learning/comptia-a-plus-core-1-220-1101-cert-prep/tcp-udp-and-icmp-21427236?autoplay=true&resume=false&u=89254810
+   https://www.linkedin.com/learning/comptia-a-plus-core-1-220-1101-cert-prep/understanding-dns-21426327?autoplay=true&resume=false&u=89254810
+   https://www.linkedin.com/learning/comptia-a-plus-core-1-220-1101-cert-prep/working-with-dns-21425600?autoplay=true&resume=false&u=89254810
+
+   https://www.linkedin.com/learning/learning-ip-addressing-2/ip-addressing-for-internet-communications?u=89254810
+
+   https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/tcp-ip-model?autoplay=true&resume=false&u=89254810
+   https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/common-network-layer-protocols?autoplay=true&resume=false&u=89254810
+   https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/common-transport-layer-protocols?autoplay=true&resume=false&u=89254810
+   https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/tcp-three-way-handshake?autoplay=true&resume=false&u=89254810
+
+_____________________________________________________________________________________________________________
