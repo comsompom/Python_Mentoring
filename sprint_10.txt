@@ -30,7 +30,7 @@ Task 50
    https://www.linkedin.com/learning/test-automation-with-python-3-testing-web-and-mobile/the-landscape-of-web-testing-tools?u=89254810
    https://www.linkedin.com/learning/python-automation-and-testing/welcome?u=89254810
 _____________________________________________________________________________________________________________
-13.10.25
+13.02.25
 Sprint 10
 Task 51
 
@@ -51,4 +51,7 @@ Task 51
    https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/common-transport-layer-protocols?autoplay=true&resume=false&u=89254810
    https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/tcp-three-way-handshake?autoplay=true&resume=false&u=89254810
 
+   HTTP protocol
+   https://www.linkedin.com/learning/http-essential-training/welcome?u=89254810
 _____________________________________________________________________________________________________________
+   
