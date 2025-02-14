@@ -55,3 +55,17 @@ Task 51
    https://www.linkedin.com/learning/http-essential-training/welcome?u=89254810
 _____________________________________________________________________________________________________________
    
+14.02.25
+Sprint 10
+Task 52
+
+0. Solve two simple leetcode tasks and commit them to the git repo
+1. for the repo: 
+   https://github.com/Svajunas900/generators_examples/tree/main
+   cover each separate function with unit test. Tests should be done in the separate file tests. Should be created the cover page
+   with showing the covering of the code. Also tests should cover the logic separately.
+2. for the repo:
+   https://github.com/Svajunas900/Leetcode_Problems
+   create unit tests with right and false results assertion for 10 tasks
+_____________________________________________________________________________________________________________
+   
