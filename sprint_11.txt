@@ -1,0 +1,21 @@
+17.02.25
+Sprint 11
+Task 53
+
+0. Solve two simple problems on the leetcode and commit them to the git repo.
+1. Create separate repo: "knowledge_check"
+   1.1. In this repo create the create the Flask app:
+        a. App should have the login page (email, password)
+        b. should be connected the SQLite db using the singleton
+        c. should log the user (login, time spend, activity)
+   1.2. App should have the One page (route) "qulification". On which should dynamically appear 40 questions about python language.
+        a. Each question shouldhave at least 4 options to answer. The answers should be multichecked, but only one answer should be correct.
+        b. all questions and answers should be in the database.
+        c. all user answers should be saved to the database.
+   1.3. App should have the own timer for 45 minutes. When time is off the test should calculate the result. Right result should be the answers
+        for at least 80% (32 right answers)
+   1.4. App should run local and from the docker.
+   1.5. All logic of the app should be covered by unit tests
+   1.6. App should have own CI/CD on the git with auto checking each commit and auto run the unit tests
+   1.7. The questions for the app should covere the Python language concepts which was learned during the studying
+_____________________________________________________________________________________________________________
