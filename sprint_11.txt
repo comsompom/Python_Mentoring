@@ -33,3 +33,13 @@ Task 54
    1.3. Create the selenium auto pass (test) self working script which should successfully passed the quiz with the result not less then
         81% and no more then 94%
 _____________________________________________________________________________________________________________
+19.02.25
+Sprint 11
+Task 55
+
+0. Solve two simple problems on the leetcode and commit them to the git repo
+1. Check the AWS courses:
+   https://www.linkedin.com/learning/aws-essential-training-for-developers-17237791/what-is-the-best-way-to-use-aws?u=89254810
+   https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/getting-started-in-aws?u=89254810
+
+_____________________________________________________________________________________________________________
