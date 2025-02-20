@@ -43,3 +43,15 @@ Task 55
    https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/getting-started-in-aws?u=89254810
 
 _____________________________________________________________________________________________________________
+20.02.25
+Sprint 11
+Task 56
+
+0. Solve two simple problems and commit them to the git repo
+1. on the leetcode get the SQL assessment:
+   https://leetcode.com/studyplan/top-sql-50/
+   Solve 15 tasks from SQL Leetcode. 
+   1.1 The tasks should be done with SQL and Pandas. For each task create separate file on the GitHub leetcode repo. In this file should
+       solution on the SQL (commented) and with panda library. 
+   1.2. Each Task should have the own unit test (for python panda)
+_____________________________________________________________________________________________________________
