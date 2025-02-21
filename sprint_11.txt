@@ -65,3 +65,16 @@ Task 57
    1.2. Solve the SQL problems with pandas
    1.3. Create the tests for python pandas solution for SQLs
 _____________________________________________________________________________________________________________
+
+21.02.25
+Sprint 11
+Task 58
+
+1. Check the ML Sentence Transformer:
+   https://sbert.net/
+2. Create separate (PRIVATE) git repo "ml_investigation" (add to this repo Oleg Bourdo). Repo should be private and closed from public
+3. Create in the repo "ml_investigation" separate folder "first_examples"
+4. in the "first_examples" - create sample python scripts for the ML SentenceTransformers model
+5. Use the model for work: 'all-mpnet-base-v2'
+6. Using the pretrained model create 2 simple examples of using the SentenceTransformers model
+_____________________________________________________________________________________________________________
