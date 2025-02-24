@@ -1,0 +1,7 @@
+24.02.25
+Sprint 12
+Task 59
+
+1. Solve two simple task on the leetcode and commit them to the git repo.
+2. Ascom project ML investigation.
+_____________________________________________________________________________________________________________
