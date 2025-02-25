@@ -5,3 +5,9 @@ Task 59
 1. Solve two simple task on the leetcode and commit them to the git repo.
 2. Ascom project ML investigation.
 _____________________________________________________________________________________________________________
+25.02.25
+Sprint 12
+Task 60
+ 1. Solve two simple problems on the leetcode and commit them to the git repo
+ 2. Ascom project ML investigation. Create parsers.
+_____________________________________________________________________________________________________________
