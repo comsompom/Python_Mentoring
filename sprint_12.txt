@@ -12,9 +12,17 @@ Task 60
  2. Ascom project ML investigation. Create parsers.
 _____________________________________________________________________________________________________________
 26.02.25
-Sprit 12
+Sprint 12
 Task 61
 
 1. Solve two simple problems on the leetcode ad omit them to the gitrepo
 2. Ascom project ML investigation. Check the probability
+_____________________________________________________________________________________________________________
+27.02.25
+Sprint 12
+Task 62
+
+1.solve two simple problems on the leetcode and commit them to the git repo
+2. Ascom project
+
 _____________________________________________________________________________________________________________
