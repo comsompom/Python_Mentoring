@@ -31,5 +31,5 @@ Sprint 12
 Task 63
 
 1.solve two simple problems on the leetcode and commit them to git repo
-2. Ascom project
+2. Ascom project. Improve the model validation and compare with the real data
 _____________________________________________________________________________________________________________
