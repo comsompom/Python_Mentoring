@@ -1,0 +1,7 @@
+03.03.25
+Sprint 13
+Task 64
+
+1. Solve two imple problems on the leetcode and commit them to the git repo
+2. Ascom project. Check the model results after the new dataset created
+_____________________________________________________________________________________________________________
