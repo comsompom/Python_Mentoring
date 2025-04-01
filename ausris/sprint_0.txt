@@ -1,36 +1,3 @@
-First Looking Discuss
-
-github - very simple -already have acc
-cloud - nothing
-leetcode - no acc if yes then create
-frameworks - 
-	django, - no any
-	pandas, - little bit
-	numpy - little bit
-fastapi - almost no
-flask - almost no think that they are the same
-databases - 
-	postgre, -no
-	mysql, - little bit
-	SQLite-no
-	NoSQL - mongodb
-
-sql - very based simple
-test framework - pytest - no any
-debug process - not using debug
-oop - 
-structures - trees, very simple and basic
-design patterns: 
-	singleton, - no
-	factory, - no 
-	context manager - no
-CI/CD. - no any, or simply based
-Agile - no any, jira - simply based
-ide - visual studio
-
-React - previously worked with UI for frontend
-______________________________________________________________________________________________________________________
-
 Sprint 0
 
 Task 1
