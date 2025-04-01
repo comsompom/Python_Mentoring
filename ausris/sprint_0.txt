@@ -1,0 +1,67 @@
+First Looking Discuss
+
+github - very simple -already have acc
+cloud - nothing
+leetcode - no acc if yes then create
+frameworks - 
+	django, - no any
+	pandas, - little bit
+	numpy - little bit
+fastapi - almost no
+flask - almost no think that they are the same
+databases - 
+	postgre, -no
+	mysql, - little bit
+	SQLite-no
+	NoSQL - mongodb
+
+sql - very based simple
+test framework - pytest - no any
+debug process - not using debug
+oop - 
+structures - trees, very simple and basic
+design patterns: 
+	singleton, - no
+	factory, - no 
+	context manager - no
+CI/CD. - no any, or simply based
+Agile - no any, jira - simply based
+ide - visual studio
+
+React - previously worked with UI for frontend
+______________________________________________________________________________________________________________________
+
+Sprint 0
+
+Task 1
+01.04.25
+
+Task1:
+1. Install: PyCharm, VisualStudio, Docker.
+2. Connect to the GitHub (create SSH, connect with Pycharm and VS)
+3. Create Repository on the GitHub: name - 00_Start_Orion, Create Confluence account, Leetcode account 
+   Send all links to accounts to Oleg. 
+   Add account: 
+           https://github.com/comsompom
+      as contributor for possibility to make changes, create PR, Issues
+4. Read the PEP8 standards
+5. Create two script: 
+   5.1 - with recursion -Fibo sequence; 
+   5.2 - With the Decorator (Output the input low letter string in UpperCase) 
+         (scripts should be done in camelcase with PEP8 standards)
+6. Make the script with cashing values (LRU Cashe library)
+7. Create simple Class with initial of the number and add the Fibo script as methode with return value
+8. Cover The methods with tests (cover the logic)
+9. Solve one simple task on the LeetCode (any) and show it
+10. Explain How the class is working, what is the potential problem with recursion, what is the decorator (explain).
+	
+https://www.linkedin.com/learning/advanced-python?u=89254810
+https://www.linkedin.com/learning/python-object-oriented-programming-22888296?u=89254810
+https://www.linkedin.com/learning/python-recursion/the-power-of-recursion?u=89254810
+
+GIT:
+https://www.linkedin.com/learning/learning-git-and-github-23011330?u=89254810
+
+Docker:
+https://www.linkedin.com/learning/learning-docker-17236240?u=89254810
+________________________________________________________________________________________________________
