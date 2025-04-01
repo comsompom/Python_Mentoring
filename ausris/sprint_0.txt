@@ -37,6 +37,9 @@ Task 1
 01.04.25
 
 Task1:
+For task checking and completion use the board:
+   https://github.com/users/comsompom/projects/2/views/1
+
 1. Install: PyCharm, VisualStudio, Docker.
 2. Connect to the GitHub (create SSH, connect with Pycharm and VS)
 3. Create Repository on the GitHub: name - 00_Start_Orion, Create Confluence account, Leetcode account 
@@ -48,7 +51,7 @@ Task1:
 5. Create two script: 
    5.1 - with recursion -Fibo sequence; 
    5.2 - With the Decorator (Output the input low letter string in UpperCase) 
-         (scripts should be done in camelcase with PEP8 standards)
+         (scripts should be done in snakecase with PEP8 standards)
 6. Make the script with cashing values (LRU Cashe library)
 7. Create simple Class with initial of the number and add the Fibo script as methode with return value
 8. Cover The methods with tests (cover the logic)
