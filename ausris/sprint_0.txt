@@ -35,3 +35,17 @@ https://www.linkedin.com/learning/learning-git-and-github-23011330?u=89254810
 Docker:
 https://www.linkedin.com/learning/learning-docker-17236240?u=89254810
 ________________________________________________________________________________________________________
+Task 2:
+
+1. Leetcode : 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence
+2. Create free AWS account.
+
+
+Python:
+https://www.linkedin.com/learning/programming-concepts-for-python?u=89254810
+https://www.linkedin.com/learning/certified-entry-level-python-programmer-pcep-30-02-cert-prep?u=89254810
+
+
+AWS: 
+https://www.linkedin.com/learning/paths/prepare-for-the-aws-certified-security-specialty-scs-c02-certification?u=89254810
+________________________________________________________________________________________________________
