@@ -49,3 +49,35 @@ https://www.linkedin.com/learning/certified-entry-level-python-programmer-pcep-3
 AWS: 
 https://www.linkedin.com/learning/paths/prepare-for-the-aws-certified-security-specialty-scs-c02-certification?u=89254810
 ________________________________________________________________________________________________________
+03.04.25
+Taks3:
+1. Leetcode - solve two simple task and push to git repo
+2. Create fibo script using own dictionary cashing implementation
+3. Put Fibo script under decorator which return just Odd the fibo value
+4. Create Python Examples with implementation of the decorators: 
+   Use two decorators for one function
+5. Check test materials about python types: List, Tuple, Set, Dictionary.
+   Describe in short readme file the difference between mutable and immutable types 
+
+
+Theory:
+https://www.datacamp.com/tutorial/decorators-python
+https://www.datacamp.com/tutorial/pytest-tutorial-a-hands-on-guide-to-unit-testing
+https://docs.pytest.org/en/stable/how-to/unittest.html
+https://www.w3schools.com/python/gloss_python_function_recursion.asp
+https://www.w3schools.com/python/python_lists.asp
+https://www.w3schools.com/python/python_tuples.asp
+https://www.w3schools.com/python/python_sets.asp
+https://www.w3schools.com/python/python_dictionaries.asp
+
+
+Python:
+https://www.linkedin.com/learning/sets-in-python-beyond-basics-to-advanced-techniques?u=89254810
+https://www.linkedin.com/learning/unit-testing-in-python/python-unit-testing-with-pytest?contextUrn=urn%3Ali%3AlyndaLearningPath%3A623b6345498ed46b03b56d47&u=89254810
+
+SQL:
+https://www.linkedin.com/learning/sql-practice-intermediate-queries?u=89254810
+
+AWS:
+https://www.linkedin.com/learning/aws-certified-cloud-practitioner-clf-c01-cert-prep-1-cloud-concepts/how-did-we-get-in-the-cloud?contextUrn=urn%3Ali%3AlyndaLearningPath%3A1~AAAAAAVR65o%3D2668188&u=89254810
+________________________________________________________________________________________________________
