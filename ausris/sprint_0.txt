@@ -81,3 +81,35 @@ https://www.linkedin.com/learning/sql-practice-intermediate-queries?u=89254810
 AWS:
 https://www.linkedin.com/learning/aws-certified-cloud-practitioner-clf-c01-cert-prep-1-cloud-concepts/how-did-we-get-in-the-cloud?contextUrn=urn%3Ali%3AlyndaLearningPath%3A1~AAAAAAVR65o%3D2668188&u=89254810
 ________________________________________________________________________________________________________
+04.04.25
+Sprint 0
+Task 4:
+
+The problem with Fibo and decorator from previous task:
+	https://github.com/Svajunas900/00_Start_Orion/tree/main
+
+1. Leetcode - solve two simple problem and commit the solutions to github
+2. Create class DataReceiver with the next implementation:
+   a) init class variable should get the URL
+   b) method get_remote_data should receive the data from wikipedia URL
+   c) method clean_data should remove all none unicode symbols from text and return the cleaned text
+   d) method return_json_text should return the json object with params: "URL" - input user url, "message" - the cleaned text
+   e) method save_to_file should save the json object to the json file
+3. Based on the technical documentation create in the repo files with the examples from the documentation
+
+Technical docs:
+
+Python:
+https://docs.python.org/3/reference/datamodel.html
+https://mathspp.com/blog/pydonts/dunder-methods
+https://www.pythonmorsels.com/every-dunder-method/
+
+AWS: (on page 4 video tutorials with explanation - view all them)
+https://aws.amazon.com/en/pm/lambda/#Learn_more_about_building_with_AWS_Lambda
+
+Bonus tech Python Flask
+https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3
+https://flask.palletsprojects.com/en/stable/quickstart/
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+________________________________________________________________________________________________________
+
