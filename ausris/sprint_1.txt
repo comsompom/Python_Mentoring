@@ -1,0 +1,25 @@
+Sprint 1
+Task 5
+07.04.25
+
+1. Leetcode - solve two simple problem and commit to github repo
+2. Create class DBSingleton - with singleton pattern implementation of connecting to the sqlite db
+3. Create class RouteFactory - with implementation of the factory pattern for generating different URL which
+   depends of the user input
+4. Create class RateFacade - with Facade pattern implementation of returning 3 different JSON objects
+
+Python:
+https://www.linkedin.com/learning/python-design-patterns-14304845?u=89254810
+https://refactoring.guru/design-patterns/python
+https://python-patterns.guide/
+
+Flask:
+https://www.linkedin.com/learning/building-restful-apis-with-flask?u=89254810
+https://flask.palletsprojects.com/en/stable/
+
+AWS:
+https://aws.amazon.com/en/sqs/
+https://aws.amazon.com/en/sqs/details/
+https://aws.amazon.com/en/sqs/pricing/
+https://aws.amazon.com/en/s3/
+________________________________________________________________________________________________________
