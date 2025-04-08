@@ -26,3 +26,21 @@ https://aws.amazon.com/en/sqs/details/
 https://aws.amazon.com/en/sqs/pricing/
 https://aws.amazon.com/en/s3/
 ________________________________________________________________________________________________________
+Sprint 1 
+Task 6
+08.04.25
+
+1. Leetcode - solve two simple problem and commit to git repo
+2. Create new repo "Check_Flask". Create simple Flask application with two routes: "simple" "odd"
+3. Route simple should return the Fibo number which user send to this route with GET operation.
+   Example: ....../simple/5 should return the JSON object on the screen with params:
+   {"user number": 5,
+    "Fibo Result": 5}
+4. Route 'odd' should receive the user params with GET operation and return JSON object with the explanation
+   that the return number in the ODD sequence or not:
+   {"user number": 5,
+    "result": if odd - "in sequence", if not odd "not in sequence"}
+
+5. Application should work locally. Create Video presentation of how the application is working
+
+________________________________________________________________________________________________________
