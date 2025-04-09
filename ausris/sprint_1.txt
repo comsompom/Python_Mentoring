@@ -56,7 +56,7 @@ Task 7
    c. https://realpython.com/introduction-to-python-generators/
 3. Create the function that will show just n  elements which will be declared as variable from previous Generator
 4. Create on the AWS Free account - Lambda Function which should calculate the Fubo sequence by receiving the user
-   variable. In the Git repo create the Separate Folder in the Orion Sprint 1 named (AWS Projects) in this folder create the Readme.md 
+   variable. In the Git repo https://github.com/ausrys/AWS_Examples in this folder create the Readme.md 
    file with described:
    a. Lambda URL
    b. Payload to lambda
