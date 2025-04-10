@@ -64,3 +64,26 @@ Task 7
    d. Readme file should be done as document with Content, right described URL and full description
    e. check that lambda will not triger any paid resources
 ________________________________________________________________________________________________________
+
+10.04.25
+Sprint 1
+Task 8
+
+0. Solve Two simple tasks on the Leetcode and commit them to repo.
+1. Create FastApi application for getting the stock prices:
+   a. Create separate repo on the GitHub inside this repo: https://github.com/ausrys/FastAPI_Examples
+   b. create Python separate virtual environment and install all dependencies library there (pandas, numpy, fastapi, yfinance)
+   c. Create Fast api routes for:
+      c.1. Get Stock Prices by send the payload (example): 
+           {"msft": "daily"} - description {stock_name: period} - sgould return the json object: {stock_price: price}
+      c.2. Get Stcock prices values (volume, average) - example: {stock_name: volume}, or example {stock_name: av_7}
+           should return the payload {stock_name: num_var}.
+           for averages return should be described like: av_{num} - where {num} - the number of the days for average the price
+   d. Create video demo of local start and working the FastApi application
+2. Create Docker Container with FastAPI stock application.
+   a. Push the docker file to the FastAPI app repo.
+   b. Docker container should be with minimum size and should include all python libraries and dependencies
+   c. Docker container should start locally
+3. In the FastAPI git repo create the Readme file with full descriprion of the app, the examples of using, examples of send
+   and received payloads. Describe the process of running app locally without docker and inside docker.
+________________________________________________________________________________________________________
