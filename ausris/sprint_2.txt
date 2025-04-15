@@ -21,6 +21,8 @@ ________________________________________________________________________________
 Sprint 2 
 Task 11
 
+https://github.com/users/comsompom/projects/2/views/1
+
 1. Solve two simple problems on the Leetcode and commit to git
 2. Using the Facade pattern extend the previous FasAPI application for responce to the user requests 
    about price and volume with splitt to request for currencies and stock. For Currency and Stosk should 
@@ -30,5 +32,16 @@ Task 11
    https://www.datacamp.com/tutorial/python-linked-lists
    https://realpython.com/linked-lists-python/
    https://www.w3schools.com/dsa/dsa_data_linkedlists_types.php
+5. Based on the investigation of the db
+	https://github.com/ausrys/FastAPI_Examples/blob/main/Stock_API/DB_investigation.MD
+
+	describe the process of the migration from sqlite to DynamoDB based on the FastApi Stock app
+
+	https://github.com/ausrys/FastAPI_Examples/tree/main/Stock_API
+
+	The migration process should be described in the separate md file and should be linked in the
+	main FastApi documentation:
+
+	https://github.com/ausrys/FastAPI_Examples/blob/main/Stock_API/README.MD
 
 ________________________________________________________________________________________________________
