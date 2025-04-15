@@ -17,3 +17,18 @@ Task 10
 4. Create video presentation of the done job (Show tests coverage, sonar, confluence pages, docker build, start, start localy)
 
 ________________________________________________________________________________________________________
+15.04.25
+Sprint 2 
+Task 11
+
+1. Solve two simple problems on the Leetcode and commit to git
+2. Using the Facade pattern extend the previous FasAPI application for responce to the user requests 
+   about price and volume with splitt to request for currencies and stock. For Currency and Stosk should 
+   be done the Facade pattern
+3. Cover all FastApi app with Tests and mock the requests and database operations.
+4. Check the tech materials about linked lists:
+   https://www.datacamp.com/tutorial/python-linked-lists
+   https://realpython.com/linked-lists-python/
+   https://www.w3schools.com/dsa/dsa_data_linkedlists_types.php
+
+________________________________________________________________________________________________________
