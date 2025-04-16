@@ -45,3 +45,22 @@ https://github.com/users/comsompom/projects/2/views/1
 	https://github.com/ausrys/FastAPI_Examples/blob/main/Stock_API/README.MD
 
 ________________________________________________________________________________________________________
+16.04.25
+Sprint 2 
+Task 12
+
+1. Solve two simple task on the leetcode and commit to git repo
+1. Check the Hashicorp Terraform learnings
+2. Create own IaC script for create the Lambda on the own free AWS account. Commit terraform script to separate repo
+3. Destroy the lambda with terraform and redeploy it with requests library and send the responce to user from Stock service API
+
+Tech docs links:
+https://developer.hashicorp.com/terraform
+https://developer.hashicorp.com/terraform/tutorials/aws-get-started
+https://developer.hashicorp.com/terraform/tutorials/docker-get-started
+
+Teach materials:
+https://www.linkedin.com/learning/learning-terraform-15575129/learn-terraform-for-your-cloud-infrastructure?u=89254810
+https://www.linkedin.com/learning/advanced-terraform-18720794/introduction-to-advanced-terraform?u=89254810
+https://www.linkedin.com/learning/essential-terraform-in-aws/essential-terraform-in-aws-introduction?u=89254810
+________________________________________________________________________________________________________
