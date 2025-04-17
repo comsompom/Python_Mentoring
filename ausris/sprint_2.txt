@@ -64,3 +64,24 @@ https://www.linkedin.com/learning/learning-terraform-15575129/learn-terraform-fo
 https://www.linkedin.com/learning/advanced-terraform-18720794/introduction-to-advanced-terraform?u=89254810
 https://www.linkedin.com/learning/essential-terraform-in-aws/essential-terraform-in-aws-introduction?u=89254810
 ________________________________________________________________________________________________________
+
+17.04.25
+Sprint 2
+Task 13
+
+1. Solve two simple problems and commit to git repo
+2. Create account on the google Development portal. Get the Dev API Key and connect to the Gemini AI.
+   2.1. Create separate repo (Gemini_Lambda) inside the:
+        https://github.com/ausrys/AWS_Examples
+   2.2. Create simple script for getting the explanation (summarization) of the given text from Gemini AI.
+3. Create the AWS Lambda using the Terraform Module with extended variables and outputs for create process
+   3.1. Lambda should receive the user text or link to the text
+   3.2. Lambda should send the request to the Gemini AI with user prompted text or link.
+   3.3. Lambda should return the JSON response in the format:
+        {"question": "USER_INPUT_QUESTION_OR_LINK",
+         "answer": "RETURN_FROM_GEMINI_AI"}
+4. Lambda should have internal Error Exception handler with sending to the user understandable response without
+   mention of the using external API
+5. Create the Video presentation of using terraform with lambda and show the lambda work
+________________________________________________________________________________________________________
+
