@@ -84,4 +84,16 @@ Task 13
    mention of the using external API
 5. Create the Video presentation of using terraform with lambda and show the lambda work
 ________________________________________________________________________________________________________
+18.04.25
+Sprint 2
+Task 14
 
+1. Solve two simple problems on the leetcode and commit to git repo
+2. Investigate the CI/CD possibilities in the GitHub. What is it? How to use? How to create the automatic deployment?
+3. Create The CI/CD Pipeline with auto deployment Lambda to the AWS with the new commit. All should be done inside the 
+   https://github.com/ausrys/AWS_Examples/tree/main/Gemini_Lambda
+4. Terraform scripts should be done in the folder. Environment variables should be inside GitHub envs.
+5. Fix documentation and describe the CI/CD in the Readme.
+6. Check the whole project with Sonarcloud and fix all issues.
+
+________________________________________________________________________________________________________
