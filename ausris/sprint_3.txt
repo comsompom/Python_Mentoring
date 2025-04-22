@@ -1,0 +1,34 @@
+22.04.25
+Sprint 3
+Task 15
+
+1. Solve two simple task on the leetcode and commit to git
+2. Complete teach materials with Python and SQL.
+   2.1 Check and learn all tech materials about DB indexes.
+   2.2 Create short Readme description about the main differences and indexes principles
+3. Install Locally PostgreDB. Create three tables with sql scripts:
+   a. Table "user": Fields ("id", "name" (text 255), "email" (text 255))
+   b. Table "history": Fields ("id", "user_id", "url", "date" (datetime), "time_spend"(datetime)) table history has the 
+      column "user_id" which is related to the table "user" - field "id"
+   c. Table "balance": Fields ("id", "user_id" (int), "active_balance" (float), "last_operation_id" (int)), field "user_id" related to
+      the table "user", field "last_operation" related to the table "transactions"
+   d. Table "transactions": Fields ("id", "user_id" (int related to user table), "transaction_type" (int related to the 
+      table type_transactions), "balance_change" (float), "date" (datetime), "time" (datetime))
+   e. Table "type_transactions": Fields ("id", "type")
+4. Connect the database to the python script using the Singleton.
+5. Create the python script with fake data filling for the database.
+
+Tech Links:
+https://builtin.com/data-science/b-tree-index
+https://planetscale.com/blog/btrees-and-database-indexes
+https://dip-mazumder.medium.com/the-power-of-database-indexing-algorithms-b-tree-vs-hash-indexing-6e3a4112a81#:~:text=Hash%20indexing%20is%20commonly%20used,returns%20a%20unique%20integer%20value.
+https://samuel-sorial.hashnode.dev/understanding-hash-indexes
+https://medium.com/@nicholas.nisopoli/understanding-indexes-in-oracle-b-tree-vs-bitmap-94f81787b453
+
+
+Teach materials:
+https://www.linkedin.com/learning/advanced-python-23931756/welcome?u=89254810
+https://www.linkedin.com/learning/sql-practice-intermediate-queries/try-your-sql-programming-skills?u=89254810
+https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/reduce-query-response-time-with-query-tuning?resume=false&u=89254810
+________________________________________________________________________________________________________
+
