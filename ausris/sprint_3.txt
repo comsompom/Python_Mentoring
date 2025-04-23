@@ -31,4 +31,29 @@ https://www.linkedin.com/learning/advanced-python-23931756/welcome?u=89254810
 https://www.linkedin.com/learning/sql-practice-intermediate-queries/try-your-sql-programming-skills?u=89254810
 https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/reduce-query-response-time-with-query-tuning?resume=false&u=89254810
 ________________________________________________________________________________________________________
+23.04.25
+Sprint 3
+Task 16
 
+1. Solve two simple problems on the leetcode and commit to git repo
+2. Go through the teach materials about JupiterNotebook. Create simple Fibo recursion on the JupiterNotebook and 
+   commit the jupiter files to git
+3. Check the possibilities of the Google Colab and create the Fibo recursion on the Google Colab.
+
+
+
+Teach materials:
+https://www.linkedin.com/learning/python-data-structures-and-algorithms/python-data-structures-and-algorithms-in-action?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2f4b3dd5596be4e4989f&u=89254810
+
+https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/python-data-structures-stacks-queues-and-deques?u=89254810
+
+https://www.linkedin.com/learning/python-data-structures-trees/getting-started-with-trees?u=89254810
+
+https://www.linkedin.com/learning/advanced-python-object-oriented-programming/advanced-object-oriented-programming-oop?u=89254810
+
+https://www.linkedin.com/learning/paths/advance-your-skills-in-python-8969631?u=89254810
+
+https://www.linkedin.com/learning/python-practice-operations?u=89254810
+
+https://www.linkedin.com/learning/introducing-jupyter/present-data-like-a-pro-with-jupyter?u=89254810
+________________________________________________________________________________________________________
