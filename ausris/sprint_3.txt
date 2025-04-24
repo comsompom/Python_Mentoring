@@ -57,3 +57,26 @@ https://www.linkedin.com/learning/python-practice-operations?u=89254810
 
 https://www.linkedin.com/learning/introducing-jupyter/present-data-like-a-pro-with-jupyter?u=89254810
 ________________________________________________________________________________________________________
+
+24.04.25
+Sprint 3
+Task 17
+
+1. Solve Two simple tasks on the Leetcode and commit to repo
+1. Create Virtual Environment for the new project: "Django_Workout". 
+   1.1 Inside virtual environment Install Python libs: Django lib, postgre lib, Python 3.11
+2. In the repo:
+   https://github.com/ausrys/Django_Examples
+   Create the New Django project: Django_Workout, Create the PostgreDB: "Django_Workout" with tables:
+   a. Cities (id, city), 
+   b. Sportsmen_Levels (id, level), 
+   c. Sportsmens (id, name, age, level(connect to Sportsmen_Levels), city (connect to Cities), program (connect to Program)),
+   d. Program (id, date, name, program_description),
+   e. Schedule_program (id, sportsmen (connect to Sportsmens), program (connect to Program), schedule)
+3. Add routes to Django: program, registration, program_registration, schedule
+4. Project should work local and in the Docker Container (demonstrate)
+
+
+Extra Teach SQL:
+https://www.linkedin.com/learning/sql-practice-intermediate-queries/try-your-sql-programming-skills?u=89254810
+________________________________________________________________________________________________________
