@@ -80,3 +80,22 @@ Task 17
 Extra Teach SQL:
 https://www.linkedin.com/learning/sql-practice-intermediate-queries/try-your-sql-programming-skills?u=89254810
 ________________________________________________________________________________________________________
+
+25.04.25
+Sprint 3
+Task 18
+
+1. Solve two simple problems on the leetcode and commit to git repo.
+2. Based on the Django_Workout project create separate routes for:
+   a. registration of the sportsmen for separate workout program
+   b. create separate route for creating the workout program. On this page should be possibility to set up the date schedule,
+      program, goals. This program route should be accessible just for the 
+      organizers role (should be done through the admin module).
+   c. Set up the roles in the admin django panel (Coach, sportsmen, free_user)
+   c. All information about registration should be save in the database. The database should be connected with
+      django ORM.
+   d. All views of the project should be done in one style (preferable React framework)
+3. all code should be covered with unit tests
+4. The solution should work in the docker and local.
+
+________________________________________________________________________________________________________
