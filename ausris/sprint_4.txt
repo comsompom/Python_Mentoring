@@ -1,0 +1,14 @@
+28.04.25
+Sprint 4
+Task 19
+
+1. Solve two simple problems on the leetcode and commit to git repo.
+2. register the project on the Sonar cloud and fix all issues that sonar cloud will find.
+3. Check the Gym+ gyms for possibilities to add their locations to own workout app.
+4. Create separate private page login for each sportsmen. Sportsmen should see just their own program on which 
+   they are registered add the possibility to register to the new program or change the subsciption, 
+   or improve the program level. 
+5. Log sportsmen operations to the log table in the database (login time, 
+   looking the program, register to the new program). All changes should be logged in the separate log table
+
+________________________________________________________________________________________________________
