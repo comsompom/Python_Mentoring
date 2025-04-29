@@ -12,3 +12,22 @@ Task 19
    looking the program, register to the new program). All changes should be logged in the separate log table
 
 ________________________________________________________________________________________________________
+29.04.25
+Sprint 4
+Task 20
+
+1. Solve two simple problems on the leetcode and commit changes to the git repo
+2. Check the materials about automation with Selenium
+3. Create repo for Selenium scripts. Create Fully automated selenium script to login and navigate to the repo
+(https://github.com/ausrys?tab=repositories)
+   Selenium script should collect the information about all the repos and save the names of the repos and the names of the files to
+   local PostgreDB in to the table git_repo (repo_id, repo_name, files_list). Connection to the DB should be realised with Singleton 
+
+
+Teach materials:
+https://www.linkedin.com/learning/using-python-for-automation-2023/automate-everything-with-python?u=89254810
+https://www.linkedin.com/learning/learning-selenium/welcome?u=89254810
+https://www.linkedin.com/learning/test-automation-with-python-5-web-browser-automation-with-selenium/java-setup?u=89254810
+https://www.linkedin.com/learning/test-automation-foundations/build-a-foundation-of-test-automation?u=89254810
+
+________________________________________________________________________________________________________
