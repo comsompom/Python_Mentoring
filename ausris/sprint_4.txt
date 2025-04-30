@@ -31,3 +31,13 @@ https://www.linkedin.com/learning/test-automation-with-python-5-web-browser-auto
 https://www.linkedin.com/learning/test-automation-foundations/build-a-foundation-of-test-automation?u=89254810
 
 ________________________________________________________________________________________________________
+30.04.25
+Sprint 4
+Task 21
+
+1. Solve two simple problems on the leetcode and commit changes to the git repo
+2. Check the board: 
+   https://github.com/users/comsompom/projects/2/views/1
+   Finish all tech materials.
+   Finish all tasks in the Progress field
+________________________________________________________________________________________________________
