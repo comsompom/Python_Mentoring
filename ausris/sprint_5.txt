@@ -14,3 +14,21 @@ Task 23
    program
 
 ________________________________________________________________________________________________________
+
+06.05.25
+Sprint 5
+Task 24
+
+1. Solve two simple problems on the leetcode and commit changes to the git repo
+2. Create separate FastAPI microservice app which:
+      a.1. Should work with own schedule (each 10 minutes (using Celery)) and scribe (using Selenium) the information (just public) about: sport news, sport events (from puiblic resources like CNN)
+      a.2 All information should be saved in the SQLite database.
+      a.3 Provide the collected information (return it) by the two routes: 
+          1 - Last world sport news;
+          2 - Future world sport events;
+      a.4 Returned information should be in the JSON format.
+   b. FastAPI app should work locally and inside docker container
+   c. FastAPI should be covered with tests
+
+________________________________________________________________________________________________________
+
