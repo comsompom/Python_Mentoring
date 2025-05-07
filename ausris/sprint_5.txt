@@ -31,4 +31,24 @@ Task 24
    c. FastAPI should be covered with tests
 
 ________________________________________________________________________________________________________
+07.05.25
+Sprint 5
+Task 25
+
+1. Solve two simple problems on the leetcode and commit changes to the git repo
+2. Check the tech materials about db indexes
+3. Check Tech materials about Celery for solve the previous FasApi task
+
+
+Tech materials:
+DB INdexes
+https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/reduce-query-response-time-with-query-tuning?resume=false&u=89254810
+
+Celery
+https://www.caktusgroup.com/blog/2021/08/11/using-celery-scheduling-tasks/
+https://medium.com/@thujuli/how-to-schedule-tasks-using-celery-in-flask-application-c004dd3c5e5c
+https://www.axelerant.com/blog/how-to-schedule-periodic-tasks-using-celery-beat
+https://medium.com/@pranavdixit20/custom-task-scheduling-in-python-using-redis-and-celery-3918ee143cac
+https://docs.celeryq.dev/en/latest/userguide/periodic-tasks.html
+________________________________________________________________________________________________________
 
