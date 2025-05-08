@@ -52,3 +52,23 @@ https://medium.com/@pranavdixit20/custom-task-scheduling-in-python-using-redis-a
 https://docs.celeryq.dev/en/latest/userguide/periodic-tasks.html
 ________________________________________________________________________________________________________
 
+08.05.25
+Sprint 5 
+Task 26
+
+1. Solve two simple problems on the leetcode and commit changes to the git repo
+2. based on previous Django project for workout connect the two FastAPI:
+   2.1. connect the FastApi stock app: ( https://github.com/ausrys/FastAPI_Examples/tree/main/Stock_API )
+   2.2. connect the FastApi sport collector app ( https://github.com/ausrys/FastAPI_Examples/tree/main/FastAPI_sport_collector )
+   as the advertisement in the column of the Django project views.
+3. Add separate tables structure for Advertisers:
+   3.1. Advertisers could login in the Django Workout project base on their paid subscriptions and provide the links
+        for the APIs.
+   3.2. The place of the Ads should be different based of the subscription
+   3.3. different levels of the ads subscription should provide different values like: 
+       	3.3.1. Number of the show ads, Time of the showing ads, place of the showing ads in the Django view
+   3.4. All actions should be separately logged in the advertiser logging table.
+   3.5. Should be separate Report view which will represent number of the showed ads, number of the clicks to the ads
+   3.6. Should be separate Administration report view which is showing all the advertisers actions.
+
+________________________________________________________________________________________________________
