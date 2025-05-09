@@ -72,3 +72,12 @@ Task 26
    3.6. Should be separate Administration report view which is showing all the advertisers actions.
 
 ________________________________________________________________________________________________________
+
+09.05.25
+Sprint 5
+Task 27
+
+1. Solve two simple problems on the leetcode and commit changes to the git repo
+2. Prepare to the all Python language knowledge check
+
+________________________________________________________________________________________________________
