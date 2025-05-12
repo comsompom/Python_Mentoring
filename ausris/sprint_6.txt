@@ -1,0 +1,17 @@
+12.05.25
+Sprint 6
+Task 28
+
+1. Solve two simple problems on the leetcode and commit changes to the git repo
+2. Check all tech materials about context manager:
+   https://book.pythontips.com/en/latest/context_managers.html
+   https://realpython.com/python-with-statement/
+   https://www.geeksforgeeks.org/context-manager-in-python/
+   https://docs.python.org/3/library/contextlib.html
+   https://www.freecodecamp.org/news/context-managers-in-python/
+3. Create own custom examples of the context manager:
+   a. create custom context manager as a class for open and close files
+   b. create custom context manager as decorator for open and close files
+   c. create custom context manager for using with SQLite db for open db, save record and close db
+4. Refresh skills about mutable and imutable python types
+________________________________________________________________________________________________________
