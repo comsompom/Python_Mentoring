@@ -15,3 +15,27 @@ Task 28
    c. create custom context manager for using with SQLite db for open db, save record and close db
 4. Refresh skills about mutable and imutable python types
 ________________________________________________________________________________________________________
+
+13.05.25
+Sprint 6
+Task 29
+
+1. Solve two simple problems on the leetcode and commit changes to the git repo
+2. Check the teach materials about REST API:
+   https://www.redhat.com/en/topics/api/what-is-a-rest-api
+   https://blog.postman.com/rest-api-examples/
+   https://www.ibm.com/think/topics/rest-apis
+   https://realpython.com/api-integration-in-python/
+   Understanding Idempotency in the REST
+   https://restfulapi.net/idempotent-rest-apis/
+3. Check all teach materials about class Dunder methods:
+   https://www.geeksforgeeks.org/dunder-magic-methods-python/
+   https://mathspp.com/blog/pydonts/dunder-methods
+   https://www.datacamp.com/tutorial/python-dunder-methods
+4. Check all teach materials about Class classmethod and staticmethod, understand the usability, create examples:
+   https://www.programiz.com/python-programming/methods/built-in/classmethod
+   https://www.geeksforgeeks.org/classmethod-in-python/
+   https://www.digitalocean.com/community/tutorials/python-static-method
+   https://www.geeksforgeeks.org/class-method-vs-static-method-python/
+
+________________________________________________________________________________________________________
