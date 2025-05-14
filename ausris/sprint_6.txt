@@ -37,5 +37,29 @@ Task 29
    https://www.geeksforgeeks.org/classmethod-in-python/
    https://www.digitalocean.com/community/tutorials/python-static-method
    https://www.geeksforgeeks.org/class-method-vs-static-method-python/
-
 ________________________________________________________________________________________________________
+
+14.05.25
+Sprint 6
+Task 30
+
+1. Solve two simple problems on the leetcode and commit changes to the git repo
+2. Check all learn materials about Python Garbage Collector:
+   https://www.datacamp.com/tutorial/python-garbage-collection
+   https://www.geeksforgeeks.org/garbage-collection-python/
+   https://stackify.com/python-garbage-collection/
+   a. Create own short example of using the GC
+3. Refresh knowledges about data types:
+   https://www.geeksforgeeks.org/python-data-types/
+4. Check all tech materials about NoSQL DynamoDB
+   https://aws.amazon.com/dynamodb/
+5. Refresh skills about Python Iterator:
+   https://www.w3schools.com/python/python_iterators.asp
+   https://wiki.python.org/moin/Iterator
+6. Refresh knowledge about HTTP return codes:
+   https://www.w3schools.com/tags/ref_httpmessages.asp
+7. Check all tech materials about DB Transaction levels:
+   https://www.cockroachlabs.com/blog/sql-isolation-levels-explained/
+   https://www.geeksforgeeks.org/transaction-isolation-levels-dbms/
+________________________________________________________________________________________________________
+
