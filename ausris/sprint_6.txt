@@ -63,3 +63,24 @@ Task 30
    https://www.geeksforgeeks.org/transaction-isolation-levels-dbms/
 ________________________________________________________________________________________________________
 
+15.05.25
+Sprint 6
+Task 31
+
+1. Solve two simple problems on the leetcode and commit changes to the git repo
+2. Refresh skill about Database indexes:
+   https://www.codecademy.com/article/sql-indexes
+   https://www.atlassian.com/data/databases/how-does-indexing-work
+   https://www.progress.com/tutorials/odbc/using-indexes
+3. Refresh skills about SQL Explain:
+   https://www.exoscale.com/syslog/explaining-mysql-queries/
+   https://dev.mysql.com/doc/refman/8.4/en/using-explain.html
+   https://www.geeksforgeeks.org/explain-in-sql/
+4. Check the AWS cloud materials about:
+   a. Lambda: https://aws.amazon.com/lambda/
+   b. SQS: https://aws.amazon.com/sqs/
+   c. API Gateway: https://aws.amazon.com/api-gateway/
+   d. Event Bridge: https://aws.amazon.com/eventbridge/
+   e. ECS: https://aws.amazon.com/ecs/
+
+________________________________________________________________________________________________________
