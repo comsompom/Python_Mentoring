@@ -82,5 +82,21 @@ Task 31
    c. API Gateway: https://aws.amazon.com/api-gateway/
    d. Event Bridge: https://aws.amazon.com/eventbridge/
    e. ECS: https://aws.amazon.com/ecs/
+________________________________________________________________________________________________________
+16.05.25
+Sprint 6
+Task 32
 
+1. Solve two simple problems on the leetcode and commit changes to the git repo
+2. Create the FastAPI app which should:
+   a. receive any text from the user using the json format: {"text": "some user question"}
+   b. get the user requested text from wiki and using the own context manager collect the text to the file
+   c. grab each 5 string and response to user the json: {"text_found": "collected sentences by own context manager and selenium"}
+3. FastAPI should work in the docker and local.
+4. All FastAPI logic code should be covered with Unit Tests
+5. Create short Readme description of the FastAPI functionality
+
+Teach materials:
+https://realpython.com/python-with-statement/
+https://book.pythontips.com/en/latest/context_managers.html
 ________________________________________________________________________________________________________
