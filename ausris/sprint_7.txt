@@ -1,0 +1,13 @@
+19.05.25
+Sprint 7
+Task 33
+
+1. Solve two simple problems on the leetcode and commit changes to the git repo
+2. Check the materials about (O) notation (big O):
+   https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/
+   https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/
+   https://web.mit.edu/16.070/www/lecture/big_o.pdf
+3. on the git repo: 
+   https://github.com/ausrys/Leetcode-chalenges/tree/main/Python
+   for each already done task at the end of the task describe the Time complexity with big O notation like a documentation
+________________________________________________________________________________________________________
