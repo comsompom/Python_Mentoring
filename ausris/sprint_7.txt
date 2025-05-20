@@ -11,3 +11,18 @@ Task 33
    https://github.com/ausrys/Leetcode-chalenges/tree/main/Python
    for each already done task at the end of the task describe the Time complexity with big O notation like a documentation
 ________________________________________________________________________________________________________
+20.05.25
+Sprint 7
+Task 34
+
+1. Solve two simple problems on the leetcode and commit changes to the git repo
+2. Check the Python Pandas library:
+   https://pandas.pydata.org/
+3. Create separate repo for pandas challenge:
+   a. https://github.com/ausrys/Leetcode-chalenges:
+   b. On the Leetcode solve all open free tasks about Pandas:
+   c.   https://leetcode.com/studyplan/30-days-of-pandas/
+   d.   https://leetcode.com/studyplan/introduction-to-pandas/
+4. All solutions should be covered with Unit Tests
+5. Unit Tests should start automatically on the CI/CD pipeline after any changes on the Pandas repo
+________________________________________________________________________________________________________
