@@ -26,3 +26,20 @@ Task 34
 4. All solutions should be covered with Unit Tests
 5. Unit Tests should start automatically on the CI/CD pipeline after any changes on the Pandas repo
 ________________________________________________________________________________________________________
+
+21.05.25
+Sprint 7
+Task 35
+
+1. Solve two simple problems on the leetcode and commit changes to the git repo
+2. Create simple AWS lambda which will request any url that user send as parameter and return the response.text to the user.
+3. Cover the lambda code with unit tests
+4. Create the Terraform scripts for deploy the lambda
+5. On the git create the CI/CD with two branches: dev and prod. 
+   a. The dev branch could be commited any user and CI/CD on the dev branch
+         should start the unit tests and using the terraform deploy the lambda.
+   b. the prod branch should be protected and to the prod branch possible just merging from the dev branch only with two user
+        approvals. On the prod branch CI/CD should run the unit tests and deploy the lambda with terraform. Results of the deploying
+        should be returned in the output with the uri of the lambda
+
+________________________________________________________________________________________________________
