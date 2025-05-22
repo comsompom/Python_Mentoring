@@ -43,3 +43,29 @@ Task 35
         should be returned in the output with the uri of the lambda
 
 ________________________________________________________________________________________________________
+
+22.05.25
+Sprint 7
+Task 36
+
+Teach materials:
+1. isinstance: https://www.w3schools.com/python/ref_func_isinstance.asp
+2. datatypes: https://www.w3schools.com/python/python_datatypes.asp
+   https://www.w3schools.com/python/python_lists.asp
+   https://www.w3schools.com/python/python_tuples.asp
+   https://www.w3schools.com/python/python_sets.asp
+   https://www.w3schools.com/python/python_dictionaries.asp
+3. Regular Expressions:
+   https://www.dataquest.io/cheat-sheet/regular-expressions-cheat-sheet/
+   https://www.linkedin.com/learning/learning-regular-expressions-15586553/write-text-matching-patterns?u=89254810
+
+Practice:
+1. solve two simple problems on the leetcode and commit to the git
+2. Create own examples of using singleton with: 
+   Base class, Metaclass, Decorator:
+   https://stackabuse.com/creating-a-singleton-in-python/
+   https://www.geeksforgeeks.org/singleton-pattern-in-python-a-complete-guide/
+3. Check the Pydantic library:
+   2.1. https://docs.pydantic.dev/latest/
+   2.2  create schema validation example with pydantic library
+________________________________________________________________________________________________________
