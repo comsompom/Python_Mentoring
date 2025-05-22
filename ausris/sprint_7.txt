@@ -66,6 +66,6 @@ Practice:
    https://stackabuse.com/creating-a-singleton-in-python/
    https://www.geeksforgeeks.org/singleton-pattern-in-python-a-complete-guide/
 3. Check the Pydantic library:
-   2.1. https://docs.pydantic.dev/latest/
-   2.2  create schema validation example with pydantic library
+   3.1. https://docs.pydantic.dev/latest/
+   3.2  create schema validation example with pydantic library
 ________________________________________________________________________________________________________
