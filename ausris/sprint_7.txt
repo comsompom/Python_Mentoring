@@ -69,3 +69,24 @@ Practice:
    3.1. https://docs.pydantic.dev/latest/
    3.2  create schema validation example with pydantic library
 ________________________________________________________________________________________________________
+23.05.25
+Sprint 7
+Task 37
+
+Teach materials:
+1. https://realpython.com/python-gil/
+2. https://www.geeksforgeeks.org/multiprocessing-python-set-1/
+3. https://www.geeksforgeeks.org/multithreading-python-set-1/
+4. https://www.youtube.com/watch?v=STEOavXqXkQ
+5. https://wiki.python.org/moin/UsingSlots
+6. https://www.geeksforgeeks.org/classmethod-in-python/
+7. https://www.linkedin.com/learning/build-rest-apis-with-fastapi/what-is-fastapi?u=89254810
+
+Practice:
+1. solve two simple leetcode task with describe big O and commit them
+2. Practice with class object:
+   a. Create simple class with using "slots"
+   b. Create Singleton using the __dicts__
+   c. create self understanding doc with describe the GIL, the difference between multiprocessing and multithreading
+3. Create FasAPI app for calculating the loosing calories per training (Walking (km), running (km), crossfit (exerscises)) of using the staticmethod for calculation and slots for describing variables
+________________________________________________________________________________________________________
