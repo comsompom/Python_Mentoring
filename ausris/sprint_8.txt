@@ -26,9 +26,9 @@ ________________________________________________________________________________
 Sprint 8
 Task 39
 
-0. solve two simple problems on the leetcode and commit them to git repo.
-1. Based on the previous Django competition solution create:
-   1.1 Flask application for creating blog on the Django site:
+1. solve two simple problems on the leetcode and commit them to git repo.
+2. Based on the previous Django competition solution create:
+   2.1 Flask application for creating blog on the Django site:
        a. Flask app should be accessible with the same admin credentials as Django admin
        b. Flask app should have easy interface for create text, add images and save them to the template files inside 
           Django app.
