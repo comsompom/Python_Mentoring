@@ -37,5 +37,28 @@ Task 39
        d. Flask app should have possibility to get the text files (txt or csv) and transfer them to the Django postgreDb
        e. all code should be covered with tests
        f. flask app should work local and from docker
+________________________________________________________________________________________________________
+28.05.25
+Sprint 8
+Task 40
+
+1. Solve two simple problems on the leetcode and commit them to the git repo
+2. Check and learn tech materials:
+   2.1. the EXPLAIN command in the PostgreDB:
+   	https://www.postgresql.org/docs/current/sql-explain.html
+   2.2. Database locks:
+        https://medium.com/inspiredbrilliance/what-are-database-locks-1aff9117c290
+   2.3. Locks in the PostgreDB:
+        https://medium.com/@hnasr/postgres-locks-a-deep-dive-9fc158a5641c
+   2.4. Cookies in the websites:
+        https://www.cloudflare.com/en-gb/learning/privacy/what-are-cookies/
+   2.5. HTTP Methods (understand and explain the difference between GET and POST):
+        http://www.w3schools.com/Tags/ref_httpmethods.asp
+   2.6. Understand and explain git cherry-pick:
+        https://git-scm.com/docs/git-cherry-pick
+   2.7. Python Abstract class. Realisation and usage:
+        https://www.geeksforgeeks.org/abstract-classes-in-python/
+   2.8. Understand and explain the RESTFull API:
+        https://aws.amazon.com/what-is/restful-api/
 
 ________________________________________________________________________________________________________
