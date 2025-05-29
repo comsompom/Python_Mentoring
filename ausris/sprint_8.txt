@@ -62,3 +62,35 @@ Task 40
         https://aws.amazon.com/what-is/restful-api/
 
 ________________________________________________________________________________________________________
+
+29.05.25
+Sprint 8 
+Task 41
+
+0. Solve two simple leetcode problems and commit to the git repo
+1. Using the FastAPI create the app which:
+   1.1. Create separate repo in the Git: news_finder
+   1.2. Using the selenium grab the headers of the news from: https://edition.cnn.com/
+        to the sqlite database to the table: news_flow (id, date, time, header_news). Should be realised using:
+        a. Each news header should not be more then 200 characters.
+        b. Singleton for connection to the db
+        c. sqlalchemy for managing the db
+   1.3. Use this grabbing periodicaly with using the Celery
+   1.4. User could send the request to the app in the format: {"date": "string_date_time", "news_num": "number_of_of_the_headers_news"}
+   1.5. Connection to the FastApi should be done for two groups of the users: authorised and not_authorised.
+        a. NOT Authorised users could get just 5 headers of the news for two days.
+        b. Authorised users could be splitted to categories: payable, free:
+           b.1 payble could grab the news with unlimit requests
+           b.2. free could request 10 days with no more then 20 headers for each day
+   1.6. Each user login should be logged to the db log table
+   1.7. if the user sends more requests then it could be in this case the response should describe that user could not grab for today more
+        news and user should recieve the short instruction how to change their category
+   1.8. the app should check the requests from users with their ip address. If there is more then 10 requests from the same IP by the 5
+        minutes then user should recieve the response that he should wait 5 minutes
+   1.9. The app should be covered with unit tests
+   1.10. The app should have the CI/CD pipeline which will execute the tests on each commit on the dev branch. and no test execution on the 
+         prod branch
+   1.11. The app should be described in the readme on the prod and on the dev. On the dev the app should have the description of how to use
+         the local and Docker. On the prod the readme should contain the information about user restrictions and categories.
+   1.12. the app should be verified with sonarcloud
+___________________________________________________
