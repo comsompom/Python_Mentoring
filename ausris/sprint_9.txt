@@ -1,0 +1,11 @@
+06.02.25
+Sprint 9
+Task 43
+
+1. Solve two simple task on the leetcode and commit it to the git
+2. Learn the AWS architecture courses:
+    https://www.linkedin.com/learning/aws-certified-solutions-architect-associate-saa-c03-cert-prep-1-cloud-services-overview/aws-solutions-architect-associate?contextUrn=urn%3Ali%3AlyndaLearningPath%3A6452b7ae498ee2eccf043926&u=89254810
+   https://www.linkedin.com/learning/aws-certified-solutions-architect-associate-saa-c03-cert-prep-2-storage-design/storage-services?contextUrn=urn%3Ali%3AlyndaLearningPath%3A6452b7ae498ee2eccf043926&u=89254810
+   https://www.linkedin.com/learning/aws-certified-solutions-architect-associate-saa-c03-cert-prep-3-virtual-private-cloud/virtual-private-cloud-vpc-overview?contextUrn=urn%3Ali%3AlyndaLearningPath%3A6452b7ae498ee2eccf043926&u=89254810
+________________________________________________________________________________________________________
+
