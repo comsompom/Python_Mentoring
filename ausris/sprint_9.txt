@@ -1,4 +1,4 @@
-06.02.25
+02.06.25
 Sprint 9
 Task 43
 
@@ -9,3 +9,11 @@ Task 43
    https://www.linkedin.com/learning/aws-certified-solutions-architect-associate-saa-c03-cert-prep-3-virtual-private-cloud/virtual-private-cloud-vpc-overview?contextUrn=urn%3Ali%3AlyndaLearningPath%3A6452b7ae498ee2eccf043926&u=89254810
 ________________________________________________________________________________________________________
 
+03.06.25
+Sprint 9
+Task 44
+
+1. Solve two simple task on the leetcode and commit it to the git
+2. Finish the AWS ARchitecture courses learning path
+
+________________________________________________________________________________________________________
