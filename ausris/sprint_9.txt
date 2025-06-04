@@ -17,3 +17,14 @@ Task 44
 2. Finish the AWS ARchitecture courses learning path
 
 ________________________________________________________________________________________________________
+04.06.25
+Sprint 9
+Task 45
+
+1. Solve two simple task on the leetcode and commit it to the git
+2. Check the LocalStack:
+   https://www.localstack.cloud/
+   https://docs.localstack.cloud/user-guide/integrations/aws-cdk/
+   https://github.com/localstack/localstack
+3. Install local stack local, check how to implement the stack with Python
+________________________________________________________________________________________________________
