@@ -28,3 +28,10 @@ Task 45
    https://github.com/localstack/localstack
 3. Install local stack local, check how to implement the stack with Python
 ________________________________________________________________________________________________________
+05.06.25
+Sprint 9
+Task 46
+
+1. Solve two simple task on the leetcode and commit it to the git
+2. Create and deploy the structure on the Localstak
+________________________________________________________________________________________________________
