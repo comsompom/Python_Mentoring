@@ -34,4 +34,15 @@ Task 46
 
 1. Solve two simple task on the leetcode and commit it to the git
 2. Create and deploy the structure on the Localstak
+    1. API GW should receive the GET requests (ONLY Get). In case other request should be generated HTML/TEXT responce with error
+   2. GET Lambda should check Authorize and check the JSON validation:
+      {"user_action": "summarize",
+       "user_text": "provided user text"}
+      Possible user actions: summarize, translate, describe
+   3. When GET lambda done all checks - then JSON is going to SQS
+   4. After SQS Lambda get the JSON and make the user asked action
+   5. Lambda should save the main user json with timestamp and user id and link to the processed file in the DynamoDB
+   6. The processed file should saved to the S3
+   7. EventBridge is working each 10 minutes and trigger even lambda
+   8. Event Lambda should get the record from DynamoDB, file from S3 and send it in the combined JSON to the Kafka Consumer
 ________________________________________________________________________________________________________
