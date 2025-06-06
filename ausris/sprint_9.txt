@@ -47,3 +47,14 @@ Task 46
    8. Event Lambda should get the record from DynamoDB, file from S3 and send it in the combined JSON to the Kafka Consumer
 
 ________________________________________________________________________________________________________
+06.06.25
+Sprint 9
+Task 47
+
+1. Solve two simple task on the leetcode and commit it to the git
+2. Finish the localstack AWS deployment
+3. Create the GitHub CI/CD with auto deployment all stack
+4. All lambdas business logic cover with unit tests.
+5. Unit Tests should start auto on the GitHub on each commit
+
+________________________________________________________________________________________________________
