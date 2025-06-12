@@ -42,3 +42,18 @@ Task 50
    2.6. App should have own CI/CD on the git with auto checking each commit and auto run the unit tests
    2.7. The questions for the app should covere the Python language concepts which was learned during the studying
 ________________________________________________________________________________________________________
+
+12.06.25
+Sprint 10 
+Task 51
+
+1. Solve two simple leetcode problems and commit them to git repo
+2. Based on the previous:
+   "knowledge_check"
+   Flask app improve the app.
+   2.1. add the function which should shuffle the questions and answers. It means each time passing the questions sequence should not be 
+      	the same. The answers possibilities also should not be in the same sequence
+   2.2. Cover all functions in the app with unit tests
+   2.3. Create the selenium auto pass (test) self working script which should successfully passed the quiz with the result not less then
+        81% and no more then 94%
+________________________________________________________________________________________________________
