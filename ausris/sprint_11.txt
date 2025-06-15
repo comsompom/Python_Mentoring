@@ -1,0 +1,45 @@
+16.06.25
+Sprint 11
+Task 53
+
+1. Solve two simple leetcode problems and commit them to git repo
+2. check the AWS course:
+   https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-managing-secrets-with-secrets-manager?u=89254810
+
+____________________________________________________________________________
+
+17.06.25
+Sprint 11
+Task 54
+
+1. Solve two simple leetcode problems and commit them to git repo
+2. start the Hugging Face AI Agent course, solve all examples
+  https://huggingface.co/learn/agents-course/en/unit0/introduction
+
+____________________________________________________________________________
+
+18.06.25
+Sprint 11
+Task 55
+
+1. Solve two simple leetcode problems and commit them to git repo
+2. finish the Hugging Face AI Agent course, solve all examples and get certified
+  https://huggingface.co/learn/agents-course/en/unit0/introduction
+
+____________________________________________________________________________
+
+19.06.25
+Sprint 11
+Task 56
+
+1. Solve two simple leetcode problems and commit them to git repo
+
+____________________________________________________________________________
+
+30.06.25
+Sprint 11
+Task 57
+
+1. Solve two simple leetcode problems and commit them to git repo
+
+____________________________________________________________________________
