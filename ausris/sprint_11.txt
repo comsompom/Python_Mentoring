@@ -33,6 +33,9 @@ Sprint 11
 Task 56
 
 1. Solve two simple leetcode problems and commit them to git repo
+2. Create the solution Using own AI agent which should:
+   2.1. Get user request (any prompt - text, imave)
+   2.2. Find the best answer using AI agents - suggest solution, draw image
 
 ____________________________________________________________________________
 
@@ -41,5 +44,6 @@ Sprint 11
 Task 57
 
 1. Solve two simple leetcode problems and commit them to git repo
+2. Using the own AI Agent find the answer and parse the web page or summarize the information
 
 ____________________________________________________________________________
