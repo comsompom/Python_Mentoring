@@ -5,3 +5,31 @@ Task 58
 1. Solve two simple leetcode problems and commit them to git repo
 
 ____________________________________________________________________________
+24.06.25
+Sprint 12
+Task 59
+
+1. Solve two simple leetcode problems and commit them to git repo
+
+____________________________________________________________________________
+25.06.25
+Sprint 12
+Task 60
+
+1. Solve two simple leetcode problems and commit them to git repo
+
+____________________________________________________________________________
+26.06.25
+Sprint 12
+Task 61
+
+1. Solve two simple leetcode problems and commit them to git repo
+
+____________________________________________________________________________
+27.06.25
+Sprint 12
+Task 62
+
+1. Solve two simple leetcode problems and commit them to git repo
+
+____________________________________________________________________________
