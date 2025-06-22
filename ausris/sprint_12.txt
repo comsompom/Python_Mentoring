@@ -3,6 +3,7 @@ Sprint 12
 Task 58
 
 1. Solve two simple leetcode problems and commit them to git repo
+2. Clean the TODO board
 
 ____________________________________________________________________________
 24.06.25
