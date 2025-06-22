@@ -1,1 +1,5 @@
-Speint 12
+30.06.25
+Sprint 12
+Task 58
+
+1. Solve two simple leetcode problems and commit them to git repo
