@@ -11,6 +11,9 @@ Sprint 12
 Task 59
 
 1. Solve two simple leetcode problems and commit them to git repo
+2. Create AI Agent for parsing the wiki pages with tables
+   2.1. Using the AI OCR models parse the table
+   2.2. Save the tables to the CSV and XLS files (depends of the user parameters)
 
 ____________________________________________________________________________
 25.06.25
