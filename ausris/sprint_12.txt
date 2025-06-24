@@ -21,6 +21,7 @@ Sprint 12
 Task 60
 
 1. Solve two simple leetcode problems and commit them to git repo
+2. Cover AI Agents with Unit tests and register in the Huggingface
 
 ____________________________________________________________________________
 26.06.25
