@@ -29,6 +29,11 @@ Sprint 12
 Task 61
 
 1. Solve two simple leetcode problems and commit them to git repo
+2. Create the AI Agent which:
+   2.1. Will use the provided git repo for source
+   2.2. Usinng the LLM will scan the git repo
+   2.4. Using the LLM will provide the suggections for create the Unit Tests
+3. Check the possibility of using the Customer Service Agent Demo from Oen AI
 
 ____________________________________________________________________________
 27.06.25
