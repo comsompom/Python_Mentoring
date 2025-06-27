@@ -41,5 +41,6 @@ Sprint 12
 Task 62
 
 1. Solve two simple leetcode problems and commit them to git repo
+2. Finish all active sprint tasks
 
 ____________________________________________________________________________
