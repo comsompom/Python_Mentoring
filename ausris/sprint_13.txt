@@ -1,0 +1,8 @@
+30.06.25
+Sprint 13
+Task 63
+
+1. Solve two simple leetcode problems and commit them to git repo
+2. Done with simple presentation about learned materials
+
+________________________________________________________________________________________________________
