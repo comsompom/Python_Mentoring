@@ -1,0 +1,64 @@
+Linux:
+What is the Linux kernel?
+What is the difference between Linux and Unix?
+What is an inode in Linux? How to find the index associated with a file?
+Differences between hard and symbolic links?
+How to schedule a task in Linux? What is crontab, and explain the fields in crontab?
+Explain the grep command and regular expressions.
+Explain the output of the top command in Linux.
+What are the process states in Linux?
+How to stop a running process in Linux?
+How to check if a specific service is running?
+How to start a service on reboot?
+How to find the IP address of an interface?
+What are runlevels in Linux, and how to change them?
+What is SELinux?
+GIT:
+Difference between GIT and SVN?
+GIT states: Understand the comparison between working directories and the index.
+git diff: Know the changes between commits and the working tree.
+git stash usage: Retrieve saved changes in the working directory.
+git log: Find a specific commit from the commit history.
+git add: Add file changes to the staging area.
+git rm: Remove a file from the staging area.
+git init: Create a new repository.
+git clone: Copy or checkout a working repository.
+git commit: Commit changes.
+git push: Push changes to the main branch.
+git pull: Fetch and merge code from the repository.
+git merge: Merge changes from a remote server into the working directory.
+git reset: Reset or discard all changes and commits.
+Explain the purpose of branching and its types.
+How do you resolve a "conflict" in GIT?
+What are the advantages of using GIT?
+Docker:
+What is a Docker container?
+How to check the state of a Docker container?
+What is a Docker image? What does the docker run command do?
+Which type of applications are better suited for Docker containers: stateful or stateless?
+What is a Dockerfile?
+If you stop a container, will you lose data?
+Explain CMD and ENTRYPOINT in a Dockerfile.
+What is a hypervisor?
+Explain the key difference between virtualization and containerization.
+Kubernetes:
+What is Kubernetes?
+What is the role of the Kubernetes scheduler?
+What is Heapster in Kubernetes?
+Why use namespaces in Kubernetes?
+What are the key features of Kubernetes?
+Explain the architecture of Kubernetes.
+What is the difference between Kubernetes and Docker Swarm?
+What is kubectl used for?
+Why is a load balancer needed, and what is it in Kubernetes?
+Which tools are used for container monitoring?
+What is the purpose of the Replication Controller?
+What are Secrets in Kubernetes?
+Storage in Kubernetes.
+Differences between StatefulSet and DaemonSet.
+Terraform:
+Differences between Terraform and Ansible.
+In which scenarios is each tool better suited?
+What happens if there are changes in the cloud but not in the Terraform configuration?
+What if a resource is manually added in the cloud and later included in Terraform?
+Basics of Terraform usage and architecture.
