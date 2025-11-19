@@ -173,7 +173,6 @@ sequenceDiagram
     DB->>Notif: Change Feed Event (Score Updated)
     Notif-->>Student: Push Notification: "Results Ready"
 ```
-<img width="3744" height="1662" alt="Untitled diagram-2025-11-19-121244" src="https://github.com/user-attachments/assets/bc6e66d1-3dcb-4e7c-a13f-665e7693637c" />
 
 ---
 
