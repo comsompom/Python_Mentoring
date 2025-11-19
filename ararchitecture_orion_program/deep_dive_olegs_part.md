@@ -138,8 +138,6 @@ graph TD
     classDef azure fill:#0072C6,stroke:#fff,stroke-width:2px,color:#fff;
     class APIM,Course,Submit,Grader,RecEngine,ServiceBus azure
 ```
-<img width="1634" height="3069" alt="Untitled diagram-2025-11-19-121639" src="https://github.com/user-attachments/assets/69e69bca-3d80-42de-ac8d-012d68c71cbf" />
-
 
 
 ### Diagram B: The CQRS Pattern for Assessment
