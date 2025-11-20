@@ -1,3 +1,6 @@
+https://moonhome.agency/cloud_presentation
+
+
 This document outlines how the **Azure-native** architecture proposed 
 earlier translates to **AWS** and **Google Cloud Platform (GCP)**.
 
