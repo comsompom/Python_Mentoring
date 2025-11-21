@@ -1,0 +1,16 @@
+# Example AWS Backend Configuration
+# Copy this to backend.tf and update with your values
+# DO NOT commit backend.tf with actual values - use GitHub Secrets instead
+
+terraform {
+  backend "s3" {
+    bucket = "your-terraform-state-bucket"
+    key    = "terraform.tfstate"
+    region = "us-east-1"
+    
+    # Optional: Enable state locking with DynamoDB
+    # dynamodb_table = "terraform-state-lock"
+    # encrypt        = true
+  }
+}
+

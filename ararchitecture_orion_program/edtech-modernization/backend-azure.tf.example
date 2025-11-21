@@ -1,0 +1,13 @@
+# Example Azure Backend Configuration
+# Copy this to backend.tf and update with your values
+# DO NOT commit backend.tf with actual values - use GitHub Secrets instead
+
+terraform {
+  backend "azurerm" {
+    storage_account_name = "your-storage-account-name"
+    container_name       = "terraform-state"
+    key                  = "terraform.tfstate"
+    resource_group_name  = "your-resource-group"
+  }
+}
+

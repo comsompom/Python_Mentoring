@@ -1,0 +1,16 @@
+# GitHub Deployment Configuration
+# This file controls which cloud providers are automatically deployed
+# when changes are pushed to the main branch
+
+# Set to true to enable automatic deployment for each cloud provider
+deploy:
+  azure: false  # Set to true to auto-deploy to Azure on main branch push
+  aws: false    # Set to true to auto-deploy to AWS on main branch push
+  gcp: false    # Set to true to auto-deploy to GCP on main branch push
+
+# Default environment for automatic deployments
+default_environment: "prod"
+
+# Note: Manual workflow dispatch always allows selection of any provider
+# This config only affects automatic deployments on push to main
+

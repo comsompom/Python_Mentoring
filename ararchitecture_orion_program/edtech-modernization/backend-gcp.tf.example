@@ -1,0 +1,14 @@
+# Example GCP Backend Configuration
+# Copy this to backend.tf and update with your values
+# DO NOT commit backend.tf with actual values - use GitHub Secrets instead
+
+terraform {
+  backend "gcs" {
+    bucket = "your-terraform-state-bucket"
+    prefix = "terraform/state"
+    
+    # Optional: Enable state locking
+    # Note: GCS supports state locking by default
+  }
+}
+
