@@ -35,4 +35,10 @@ Attackers often use names like "CCity," "Metaverse," or "NFT Platform" to trick 
 *   If you have already downloaded and run it, you must assume your PC is compromised.
 *   **Immediate Steps if ran:** Disconnect from the internet, format your PC (factory reset), and—from a *different* device—change all your passwords and move funds from any crypto wallets that were on that machine.
 
-*   
+
+be Aware this User
+
+eduard214hakobyan-pixel
+
+He is a real scammer!
+
